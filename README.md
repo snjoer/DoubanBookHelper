@@ -1,7 +1,9 @@
 ## doubanBooks
 
 ### What does it do?
-sort books based on rates from https://www.book.douban.com
+sort books based on rates from https:book.douban.com
+
+Example:
 ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/example.png)
 
 ### How to use?
