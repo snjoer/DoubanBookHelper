@@ -11,6 +11,7 @@ def getContent(url, rankList):
     ls = bs.findAll('li', class_ = 'subject-item')
     for item in ls:
         title = ' '.join(item.h2.text.split())
+        pubinfo = ' '.join(item.find(class_ = 'pub').text.split())
         try:
             pl = ' '.join(item.find(class_ = 'pl').text.split())
         except AttributeError:
@@ -19,7 +20,7 @@ def getContent(url, rankList):
             rate = float(item.find(class_ = 'rating_nums').text)
         except AttributeError:
             rate = 0
-        dic = {'title': title, 'read': pl, 'rate': rate}
+        dic = {'title': title, 'pub': pubinfo, 'read': pl, 'rate': rate}
         rankList.append(dic)
 
 def export(rankList):
@@ -27,6 +28,7 @@ def export(rankList):
     lst = open('booklist' + text, 'w+')
     for item in sortedList:
         lst.write('book title: <<' + item['title'] + '>>' + '\n')
+        lst.write('pub info: ' + item['pub']+ '\n')
         lst.write('rate: ' + str(item['rate']) + ' ')
         lst.write(item['read'])
         lst.write('\n\n')
