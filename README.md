@@ -8,6 +8,7 @@ Example:
 
 ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/4.png)
 
+Markup : ----
 
 ### How to use?
 i. $python py2_doubanBookUI.py
@@ -27,5 +28,6 @@ iv. Find file 'booklist of XXX' in the same folder
 what you get is:
 ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/4.png)
 
+Markup : ----
 
 ## ENJOY!
