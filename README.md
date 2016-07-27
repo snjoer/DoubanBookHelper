@@ -14,7 +14,7 @@ Example:
 Input keyword, 'Python' for example
 ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/1.png)
 
-2. Press Start! to begin searching
+2. Press Start! button to begin searching
 ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/2.png)
 
 3. Done
