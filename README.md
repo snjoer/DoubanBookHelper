@@ -5,7 +5,7 @@ sort books based on rates from https://book.douban.com
 
 Example:
 
-![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/example.png)
+![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/4.png)
 
 ### How to use?
 1. $python3 doubanBookMultiThread.py
