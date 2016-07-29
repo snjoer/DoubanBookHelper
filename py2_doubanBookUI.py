@@ -1,7 +1,8 @@
-import requests
-import time
-import sys
 import wx
+import sys
+import time
+import requests
+import threading
 from bs4 import *
 from requests.exceptions import *
 from urllib import quote
@@ -10,31 +11,36 @@ from urllib import quote
 reload(sys)
 sys.setdefaultencoding('utf8')
 
+PROGRESS_MAX = 10
+
 class Crawl():
     def __init__(self, key_word):
         url = "https://book.douban.com/subject_search?search_text="
         self.key_word = key_word
         tag = quote(key_word)
-        print tag
         self.url = url + tag 
         self.rankList = []
 
-    def start(self, count, progress_max, keep_going, dialog):
-        while count < progress_max:
+    def start(self, gauge):
+        count = 0
+        while count < PROGRESS_MAX:
             wurl = self.url + '&start=' + str(count * 15) 
             try:
-                self.getContent(wurl, self.rankList)
-                keep_going = dialog.Update(count)
+                self.getContent(wurl, gauge)
             except Timeout:
                 continue
             except HTTPError:
-                keep_going = False
                 break
+            wx.CallAfter(gauge.UpdateGauge, count, "%i of %i"%(count, PROGRESS_MAX))
             count += 1
-        self.export(self.rankList)
-        return 
+        gauge.Destroy()
+        if gauge.isValid():
+            self.export(self.rankList)
+            box = wx.MessageDialog(None, 'Done!', 'Successfully Exported', wx.OK)
+            box.ShowModal()
+            box.Destroy()
 
-    def getContent(self, url, rankList):
+    def getContent(self, url, gauge):
         page = requests.get(url, timeout=1).text
         bs = BeautifulSoup(page, 'html.parser')
         ls = bs.findAll('li', class_ = 'subject-item')
@@ -50,7 +56,7 @@ class Crawl():
             except AttributeError:
                 rate = 0
             dic = {'title': title, 'pub': pubinfo, 'read': pl, 'rate': rate}
-            rankList.append(dic)
+            self.rankList.append(dic)
 
     def export(self, rankList):
         sortedList = sorted(rankList, key = lambda k: k['rate'], reverse = True)
@@ -117,19 +123,12 @@ class Frame(wx.Frame):
             answer = box.ShowModal()
             box.Destroy()
             return
-        progress_max = 5
-        dialog = wx.ProgressDialog("Processing...", "Time remaining:",
-                progress_max,
-                style = wx.PD_CAN_ABORT | wx.PD_ELAPSED_TIME | wx.PD_REMAINING_TIME)
-        keep_going = True
-        count = 0
+        gauge = GaugeFrame(self, title="0 of " + str(PROGRESS_MAX), maximum=PROGRESS_MAX)
+        gauge.Show()
         crawl = Crawl(key_word)
-        crawl.start(count, progress_max, keep_going, dialog)
-        dialog.Destroy()
-        box = wx.MessageDialog(None, 'Done!', 
-                'Successfully Exported', wx.OK)
-        box.ShowModal()
-        box.Destroy()
+        working_thread = threading.Thread(target=crawl.start, 
+                args=(gauge,))
+        working_thread.start()
 
     def exit(self, event):
         self.Destroy()
@@ -158,6 +157,30 @@ class Frame(wx.Frame):
                 "For more book information, check: https://book.douban.com",
                 "About book.douban", wx.OK)
         box.ShowModal()
+
+class GaugeFrame(wx.Frame):
+    def __init__(self, parent, title, maximum):
+        wx.Frame.__init__(self, parent, -1, title=title, size=(300, 80))
+        self.bar = wx.Gauge(self, range=maximum, size=(300, 20))
+        self.button_cancel = wx.Button(self, label='Cancel')
+        sizer = wx.BoxSizer(wx.VERTICAL)
+        sizer.Add(self.bar)
+        sizer.Add(self.button_cancel, flag=wx.CENTER)
+        self.SetSizer(sizer)
+        self.Bind(wx.EVT_BUTTON, self.onCncel, self.button_cancel)
+        self.validity = True
+
+    def UpdateGauge(self, value, message=""):
+        self.bar.SetValue(value)
+        if message != "":
+            self.SetTitle(message)
+
+    def onCncel(self, event):
+        self.SetTitle("Cancelling...")
+        self.validity = False
+
+    def isValid(self):
+        return self.validity
 
 if __name__ == '__main__':
     app = wx.App()

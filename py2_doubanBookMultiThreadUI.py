@@ -49,9 +49,7 @@ class Crawl():
             wurl = self.url + '&start=' + str(index * 15)
             try:
                 page = requests.get(wurl, timeout=1).text
-                print "connected"
             except Timeout:
-                print "connecting error..."
                 continue
             except HTTPError:
                 break;
