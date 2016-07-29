@@ -2,7 +2,7 @@
 
 
 ### What does it do?
-sort books based on rates from https://book.douban.com
+Sorting books based on marks from https://book.douban.com
 
 Example:
 
