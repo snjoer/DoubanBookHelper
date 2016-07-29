@@ -11,7 +11,7 @@ Example:
 ----
 
 ### How to use?
-* $python py2_doubanBookMultiThreadUI.py
+* $python DoubanBookHelper_MT_UI.py
 Input keyword, 'Python' for example
 
 ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/1.png)
