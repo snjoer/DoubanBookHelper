@@ -1,17 +1,15 @@
-#-*- coding: utf-8 -*-
-
-from bs4 import *
-from urllib import urlopen
-from urllib import pathname2url
-from urllib2 import HTTPError
+import requests
 import time
 import sys
+from bs4 import *
+from requests.exceptions import *
+from urllib import pathname2url
 
 reload(sys)
 sys.setdefaultencoding('utf8')
 
 def getContent(url, rankList):
-    page = urlopen(url)
+    page = requests.get(url, timeout=1).text
     bs = BeautifulSoup(page, 'html.parser')
     ls = bs.findAll('li', class_ = 'subject-item')
     for item in ls:
@@ -38,17 +36,20 @@ def export(rankList):
         lst.write(item['read'])
         lst.write('\n\n')
 
-url = "https://book.douban.com/subject_search?search_text="
-text = raw_input('key word:')
-tag = pathname2url(text)
-url = url + tag
-rankList = []
-index = 0
-while index < 3:
-    wurl = url + '&start=' + str(index * 15)
-    try:
-        getContent(wurl, rankList)
-    except HTTPError:
-        break
-    index += 1
-export(rankList)
+if __name__ == '__main__':
+    url = "https://book.douban.com/subject_search?search_text="
+    text = raw_input('key word:')
+    tag = pathname2url(text)
+    url = url + tag
+    rankList = []
+    index = 0
+    while index < 3:
+        wurl = url + '&start=' + str(index * 15)
+        try:
+            getContent(wurl, rankList)
+        except Timeout:
+            continue
+        except HTTPError:
+            break
+        index += 1
+    export(rankList)

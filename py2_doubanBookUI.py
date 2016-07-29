@@ -1,11 +1,10 @@
-from bs4 import *
-from urllib import urlopen
-from urllib import pathname2url
-from urllib2 import HTTPError
-
+import requests
 import time
 import sys
 import wx
+from bs4 import *
+from requests.exceptions import *
+from urllib import quote
 
 # add utf-8 support
 reload(sys)
@@ -15,7 +14,8 @@ class Crawl():
     def __init__(self, key_word):
         url = "https://book.douban.com/subject_search?search_text="
         self.key_word = key_word
-        tag = pathname2url(key_word)
+        tag = quote(key_word)
+        print tag
         self.url = url + tag 
         self.rankList = []
 
@@ -25,18 +25,16 @@ class Crawl():
             try:
                 self.getContent(wurl, self.rankList)
                 keep_going = dialog.Update(count)
+            except Timeout:
+                continue
             except HTTPError:
                 keep_going = False
                 break
             count += 1
-            wx.Sleep(1)
         self.export(self.rankList)
         return 
 
     def getContent(self, url, rankList):
-        page = urlopen(url)
-        time.sleep(3)
-        bs = BeautifulSoup(page, 'html.parser')
         ls = bs.findAll('li', class_ = 'subject-item')
         for item in ls:
             title = ' '.join(item.h2.text.split())
@@ -111,7 +109,7 @@ class Frame(wx.Frame):
         self.Bind(wx.EVT_TEXT_ENTER, self.onEnter, self.key_word_box)
 
     def startToSearch(self, event):
-        key_word = self.key_word_box.GetValue()
+        key_word = self.key_word_box.GetValue().encode('utf-8')
         if key_word == "":
             box = wx.MessageDialog(None, 'Input something OK?', 'No input detected', wx.OK)
             answer = box.ShowModal()
