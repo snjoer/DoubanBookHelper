@@ -1,11 +1,10 @@
-from bs4 import BeautifulSoup
-from urllib import urlopen
-from urllib import pathname2url
-from urllib2 import HTTPError
-
-import time
-import threading
 import sys
+import time
+import requests
+import threading
+from urllib import quote
+from bs4 import BeautifulSoup
+from requests.exceptions import *
 
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -17,7 +16,11 @@ def getContent(url, index, rankList):
     while i < 10:
         wurl = url + '&start=' + str(index * 15)
         try:
-            page = urlopen(wurl)
+            page = requests.get(wurl, timeout=1).text
+            print "connected"
+        except Timeout:
+            print "connecting error..."
+            continue
         except HTTPError:
             break;
         bs = BeautifulSoup(page, 'html.parser')
@@ -52,21 +55,22 @@ def export(rankList):
         lst.write(item['read'])
         lst.write('\n\n')
 
-url = "https://book.douban.com/subject_search?search_text="
-text = raw_input('key word:')
-tag = pathname2url(text)
-url = url + tag
-rankList = []
-index = 0
-thread0 = threading.Thread(target = getContent, args = (url, index, rankList))
-index += 10
-thread1 = threading.Thread(target = getContent, args = (url, index, rankList))
-index += 10
-thread2 = threading.Thread(target = getContent, args = (url, index, rankList))
-thread0.start()
-thread1.start()
-thread2.start()
-thread0.join()
-thread1.join()
-thread2.join()
-export(rankList)
+if __name__ == '__main__':
+    url = "https://book.douban.com/subject_search?search_text="
+    text = raw_input('key word:')
+    tag = quote(text.encode('utf-8'))
+    url = url + tag
+    rankList = []
+    index = 0
+    thread0 = threading.Thread(target = getContent, args = (url, index, rankList))
+    index += 10
+    thread1 = threading.Thread(target = getContent, args = (url, index, rankList))
+    index += 10
+    thread2 = threading.Thread(target = getContent, args = (url, index, rankList))
+    thread0.start()
+    thread1.start()
+    thread2.start()
+    thread0.join()
+    thread1.join()
+    thread2.join()
+    export(rankList)

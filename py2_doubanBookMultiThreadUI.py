@@ -1,53 +1,60 @@
-from bs4 import BeautifulSoup
-from urllib import urlopen
-from urllib import pathname2url
-from urllib2 import HTTPError
-
-import time
-import threading
-import sys
 import wx
-
+import sys
+import time
+import requests
+import threading
+from urllib import quote
+from bs4 import BeautifulSoup
+from requests.exceptions import *
 reload(sys)
 sys.setdefaultencoding('utf8')
 
 lock = threading.Lock()
 
+PROGRESS_MAX = 10
+counter = 0
+
 class Crawl():
     def __init__(self, key_word):
         url = "https://book.douban.com/subject_search?search_text="
         self.key_word = key_word
-        tag = pathname2url(key_word)
+        tag = quote(key_word.encode('utf-8'))
         self.url = url + tag 
         self.rankList = []
 
-    def start(self, url, progress_max, keep_going, dialog):
+    def start(self, gauge):
         index = 0 
-        thread0 = threading.Thread(target = self.getContent, args = (url, index, self.rankList, progress_max, keep_going, dialog))
+        thread0 = threading.Thread(target = self.getContent, args = (index, gauge))
         index += 10
-        thread1 = threading.Thread(target = self.getContent, args = (url, index, self.rankList, progress_max, keep_going, dialog))
+        thread1 = threading.Thread(target = self.getContent, args = (index, gauge))
         index += 10
-        thread2 = threading.Thread(target = self.getContent, args = (url, index, self.rankList, progress_max, keep_going, dialog))
+        thread2 = threading.Thread(target = self.getContent, args = (index, gauge))
         thread0.start()
         thread1.start()
         thread2.start()
         thread0.join()
         thread1.join()
         thread2.join()
-        self.export(self.rankList)                                                    
+        gauge.Destroy()
+        if gauge.isValid:
+            self.export()
+            box = wx.MessageDialog(None, 'Done!', 'Successfully Exported', wx.OK)
+            box.ShowModal()
+            box.Destroy()
 
-    def getContent(self, url, index, rankList, progress_max, keep_going, dialog):
+    def getContent(self, index, gauge):
         i = 0
-        while i < progress_max:
+        global counter
+        while i < PROGRESS_MAX and gauge.isValid() == True:
             wurl = self.url + '&start=' + str(index * 15)
             try:
-                page = urlopen(wurl)
+                page = requests.get(wurl, timeout=1).text
+                print "connected"
+            except Timeout:
+                print "connecting error..."
+                continue
             except HTTPError:
-                keep_going = False
                 break;
-            keep_going = dialog.Update(i)
-            time.sleep(3)
-            wx.Sleep(1)
             bs = BeautifulSoup(page, 'html.parser')
             ls = bs.findAll('li', class_ = 'subject-item')
             for item in ls:
@@ -64,13 +71,19 @@ class Crawl():
                 dic = {'title': title, 'pub': pubinfo, 'read': pl, 'rate': rate}
                 lock.acquire()
                 try:
-                    rankList.append(dic)
+                    self.rankList.append(dic)
                 finally:
                     lock.release()
+            lock.acquire()
+            try:
+                counter += 1
+                wx.CallAfter(gauge.UpdateGauge, counter, "%i of %i"%(counter, PROGRESS_MAX*3))
+            finally:
+                lock.release()
             index += 1
             i += 1
 
-    def export(self, rankList):
+    def export(self):
         sortedList = sorted(self.rankList, key = lambda k: k['rate'], reverse = True)
         lst = open('booklist of ' + self.key_word, 'w+')
         for item in sortedList:
@@ -135,19 +148,13 @@ class Frame(wx.Frame):
             answer = box.ShowModal()
             box.Destroy()
             return
-        progress_max = 5
-        dialog = wx.ProgressDialog("Processing...", "Time remaining:",
-                progress_max,
-                style = wx.PD_CAN_ABORT | wx.PD_ELAPSED_TIME | wx.PD_REMAINING_TIME)
-        keep_going = True
-        count = 0
+        global counter
+        counter = 0
+        gauge = GaugeFrame(self, title="0 of " + str(PROGRESS_MAX*3), maximum=PROGRESS_MAX*3)
+        gauge.Show()
         crawl = Crawl(key_word)
-        crawl.start(count, progress_max, keep_going, dialog)
-        dialog.Destroy()
-        box = wx.MessageDialog(None, 'Done!', 
-                'Successfully Exported', wx.OK)
-        box.ShowModal()
-        box.Destroy()
+        working_thread = threading.Thread(target=crawl.start, args=(gauge,))
+        working_thread.start()
 
     def exit(self, event):
         self.Destroy()
@@ -177,9 +184,32 @@ class Frame(wx.Frame):
                 "About book.douban", wx.OK)
         box.ShowModal()
 
+class GaugeFrame(wx.Frame):
+    def __init__(self, parent, title, maximum):
+        wx.Frame.__init__(self, parent, -1, title=title, size=(300, 80))
+        self.bar = wx.Gauge(self, range=maximum, size=(300, 20))
+        self.button_cancel = wx.Button(self, label='Cancel')
+        sizer = wx.BoxSizer(wx.VERTICAL)
+        sizer.Add(self.bar)
+        sizer.Add(self.button_cancel, flag=wx.CENTER)
+        self.SetSizer(sizer)
+        self.Bind(wx.EVT_BUTTON, self.onCncel, self.button_cancel)
+        self.validity = True
+    
+    def UpdateGauge(self, value, message=""):
+        self.bar.SetValue(value)
+        if message != "":
+            self.SetTitle(message)
+
+    def onCncel(self, event):
+        self.SetTitle("Cancelling...")
+        self.validity = False
+
+    def isValid(self):
+        return self.validity
+
 if __name__ == '__main__':
     app = wx.App()
     frame = Frame()
     frame.Show()
     app.MainLoop()
-

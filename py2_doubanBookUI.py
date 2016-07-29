@@ -35,6 +35,8 @@ class Crawl():
         return 
 
     def getContent(self, url, rankList):
+        page = requests.get(url, timeout=1).text
+        bs = BeautifulSoup(page, 'html.parser')
         ls = bs.findAll('li', class_ = 'subject-item')
         for item in ls:
             title = ' '.join(item.h2.text.split())
