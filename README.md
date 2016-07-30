@@ -13,7 +13,7 @@ Example:
 ### How to build?
 1. Install libraries yourself, which are requests, bs4 and wxPython.
 
-2. Use pip
+2. Use command:p
     ```
     $ pip install -r requirements.txt
     ```
