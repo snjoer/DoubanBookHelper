@@ -39,7 +39,7 @@ After installed libraries needed.
         ```
 Example will use version 2
 
-1.Input keyword, 'Python' for example
+1. Input keyword, 'Python' for example
     
     ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resources/1.png)
 
