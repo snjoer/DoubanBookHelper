@@ -14,7 +14,7 @@ Example:
 1. Install libraries yourself, which are requests, bs4 and wxPython.
 
 2. Use command: 
-        $ pip install -r requirements.txt 
+        ```$ pip install -r requirements.txt``` 
     to install libraries needed.
     But I don't recommend it because it's my first time to distribute
     a python project and I don't know exactly whether it works.
