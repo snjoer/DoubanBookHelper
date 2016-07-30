@@ -20,9 +20,9 @@ Example:
 to install libraries needed. But I don't recommend it because it's my first time to distribute a python project and I don't know exactly whether it works.
 
 3. Use command: 
-        ```
-        $ python setup.py install
-        ```
+    ```
+    $ python setup.py install
+    ```
     I don't recommend it, same reason of method 2.
 
 ----
@@ -39,21 +39,21 @@ After installed libraries needed.
         ```
 Example will use version 2
 
-Input keyword, 'Python' for example
+1.Input keyword, 'Python' for example
 
-![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resources/1.png)
+    ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resources/1.png)
 
-* Press Start! button to begin searching
+2. Press Start! button to begin searching
 
-![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resources/2.png)
+    ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resources/2.png)
 
-* Done
+3. Done
 
-![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resources/3.png)
+    ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resources/3.png)
 
-* Find file 'booklist of XXX' in folder export_files
+4. Find file 'booklist of XXX' in folder export_files
 what you get is:
-![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resources/4.png)
+    ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resources/4.png)
 
 ----
 
