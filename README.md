@@ -14,35 +14,23 @@ Example:
 1. Install libraries yourself, which are requests, bs4 and wxPython.
 
 2. Use command: 
-        ```
         $ pip install -r requirements.txt 
-        ```
-        to install libraries needed.
-        But I don't recommend it because it's my first time to distribute
-        a python project and I don't know exactly whether it works.
+    to install libraries needed.
+    But I don't recommend it because it's my first time to distribute
+    a python project and I don't know exactly whether it works.
 
 3. Use command: 
-
-        ```
         $ python setup.py install 
-        ```
-        I don't recommend it, same reason of method 2.
+    I don't recommend it, same reason of method 2.
 
 ----
 
 ### How to use?
 After installed libraries needed.
-
- 
-        ```
         $ python ui_doubanbookhelper.py 2
-        ```
-to start version 2
-for version 1, use
-
-        ```
+    to start version 2
+    for version 1, use
         $ python ui_doubanbookhelper.py 1
-        ```
 
 Example will use version 2
 
