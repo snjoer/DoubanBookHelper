@@ -6,7 +6,7 @@ Sorting books based on marks from https://book.douban.com
 
 Example:
 
-![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/4.png)
+![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resources/4.png)
 
 ----
 
