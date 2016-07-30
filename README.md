@@ -14,17 +14,17 @@ Example:
 1. Install libraries yourself, which are requests, bs4 and wxPython.
 
 2. Use command: 
-        ```Bash
+        ```
         $ pip install -r requirements.txt 
         ```
         to install libraries needed.
-            But I don't recommend it because it's my first time to distribute
+        But I don't recommend it because it's my first time to distribute
         a python project and I don't know exactly whether it works.
 
 3. Use command: 
 
-        ```Bash
-        python setup.py install 
+        ```
+        $ python setup.py install 
         ```
         I don't recommend it, same reason of method 2.
 
@@ -34,15 +34,14 @@ Example:
 After installed libraries needed.
 
  
-
-        ```Bash
-        python ui_doubanbookhelper.py 2
+        ```
+        $ python ui_doubanbookhelper.py 2
         ```
 to start version 2
 for version 1, use
 
-        ```Bash
-        python ui_doubanbookhelper.py 1
+        ```
+        $ python ui_doubanbookhelper.py 1
         ```
 
 Example will use version 2
