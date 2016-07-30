@@ -1,0 +1,5 @@
+setup.py
+DoubanBookHelper.egg-info/PKG-INFO
+DoubanBookHelper.egg-info/SOURCES.txt
+DoubanBookHelper.egg-info/dependency_links.txt
+DoubanBookHelper.egg-info/top_level.txt

@@ -2,8 +2,9 @@ import sys
 import time
 import requests
 import threading
+from bs4 import *
+from export import *
 from urllib import quote
-from bs4 import BeautifulSoup
 from requests.exceptions import *
 
 reload(sys)
@@ -45,20 +46,10 @@ def getContent(url, index, rankList):
         index += 1
         i += 1
 
-def export(rankList):
-    sortedList = sorted(rankList, key = lambda k: k['rate'], reverse = True)
-    lst = open('booklist of ' + text, 'w+')
-    for item in sortedList:
-        lst.write('book titile: <<' + item['title'] + '>>' + '\n')
-        lst.write('pub info: ' + item['pub'] + '\n')
-        lst.write('rate: ' + str(item['rate']) + ' ')
-        lst.write(item['read'])
-        lst.write('\n\n')
-
 if __name__ == '__main__':
     url = "https://book.douban.com/subject_search?search_text="
-    text = raw_input('key word:')
-    tag = quote(text.encode('utf-8'))
+    key_word = raw_input('key word:')
+    tag = quote(key_word.encode('utf-8'))
     url = url + tag
     rankList = []
     index = 0
@@ -73,4 +64,4 @@ if __name__ == '__main__':
     thread0.join()
     thread1.join()
     thread2.join()
-    export(rankList)
+    export(rankList, key_word)

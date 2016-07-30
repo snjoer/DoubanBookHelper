@@ -2,8 +2,9 @@ import requests
 import time
 import sys
 from bs4 import *
+from export import export
+from urllib import quote
 from requests.exceptions import *
-from urllib import pathname2url
 
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -26,20 +27,10 @@ def getContent(url, rankList):
         dic = {'title': title, 'pub': pubinfo, 'read': pl, 'rate': rate}
         rankList.append(dic)
 
-def export(rankList):
-    sortedList = sorted(rankList, key = lambda k: k['rate'], reverse = True)
-    lst = open('booklist of ' + text, 'w+')
-    for item in sortedList:
-        lst.write('book title: <<' + item['title'] + '>>' + '\n')
-        lst.write('pub info: ' + item['pub']+ '\n')
-        lst.write('rate: ' + str(item['rate']) + ' ')
-        lst.write(item['read'])
-        lst.write('\n\n')
-
 if __name__ == '__main__':
     url = "https://book.douban.com/subject_search?search_text="
-    text = raw_input('key word:')
-    tag = pathname2url(text)
+    key_word = raw_input('key word:')
+    tag = quote(key_word)
     url = url + tag
     rankList = []
     index = 0
@@ -52,4 +43,4 @@ if __name__ == '__main__':
         except HTTPError:
             break
         index += 1
-    export(rankList)
+    export(rankList, key_word)
