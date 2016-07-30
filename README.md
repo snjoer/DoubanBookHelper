@@ -18,7 +18,7 @@ Example:
 $ pip install -r requirements.txt 
 ```
 to install libraries needed.
-But I don't recommend it because it's my first time to distribute a python
+    But I don't recommend it because it's my first time to distribute a python
 project and I don't know exactly whether it works.
 
 3. Use command: 
