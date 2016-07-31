@@ -6,7 +6,7 @@ Sorting books based on marks from https://book.douban.com
 
 Example:
 
-![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resources/4.png)
+![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resource/4.png)
 
 ----
 
@@ -41,19 +41,19 @@ Example will use version 2
 
 1. Input keyword, 'Python' for example
     
-    ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resources/1.png)
+    ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resource/1.png)
 
 2. Press Start! button to begin searching
 
-    ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resources/2.png)
+    ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resource/2.png)
 
 3. Done
 
-    ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resources/3.png)
+    ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resource/3.png)
 
 4. Find file 'booklist of XXX' in folder export_files
 what you get is:
-    ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resources/4.png)
+    ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resource/4.png)
 
 ----
 
