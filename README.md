@@ -8,7 +8,7 @@ Sorting books based on marks from https://book.douban.com
 
 Example:
 
-![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resource/5.png)
+![](https://github.com/Rafael-Cheng/DoubanBookHelper/blob/master/resource/5.png?raw=true)
 
 ----
 
@@ -47,19 +47,19 @@ Example will use version 2
 
 2. Press Start! button to begin searching
 
-    ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resource/2.png)
+    ![](https://github.com/Rafael-Cheng/DoubanBookHelper/blob/master/resource/2.png?raw=true)
 
 3. Done
 
-    ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resource/3.png)
+    ![](https://github.com/Rafael-Cheng/DoubanBookHelper/blob/master/resource/3.png?raw=true)
 
 4. Click Show Booklist to check out booklist
     
-    ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resource/4.png)
+    ![](https://github.com/Rafael-Cheng/DoubanBookHelper/blob/master/resource/4.png?raw=true)
 
 5. 'booklist of XXX' can be found in folder export_files
 what you get is:
-    ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resource/5.png)
+    ![](https://github.com/Rafael-Cheng/DoubanBookHelper/blob/master/resource/5.png?raw=true)
 
 ----
 
