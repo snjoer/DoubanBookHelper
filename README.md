@@ -43,7 +43,7 @@ Example will use version 2
 
 1. Input keyword, 'Python' for example
     
-    ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resource/1.png)
+    ![](https://github.com/Rafael-Cheng/DoubanBookHelper/blob/master/resource/1.png?raw=true)
 
 2. Press Start! button to begin searching
 
