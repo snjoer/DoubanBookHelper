@@ -27,7 +27,8 @@ class Crawl():
             wx.CallAfter(gauge.UpdateGauge, count, "%i of %i"%(count, PROGRESS_MAX))
             count += 1
         if gauge.isValid() == True:
-            export(self.rankList, self.key_word)
+            filepath = '../export_files/booklist_of_' + self.key_word
+            export(self.rankList, filepath)
             box = wx.MessageDialog(None, 'Done!', 'Successfully Exported', wx.OK)
             box.ShowModal()
             box.Destroy()

@@ -1,12 +1,14 @@
 ## DoubanBookHelper
 
+### Notice!
+Show booklist is only available for MacOSX user at present.
 
 ### What does it do?
 Sorting books based on marks from https://book.douban.com
 
 Example:
 
-![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resource/4.png)
+![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resource/5.png)
 
 ----
 
@@ -51,9 +53,13 @@ Example will use version 2
 
     ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resource/3.png)
 
-4. Find file 'booklist of XXX' in folder export_files
-what you get is:
+4. Click Show Booklist to check out booklist
+    
     ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resource/4.png)
+
+5. 'booklist of XXX' can be found in folder export_files
+what you get is:
+    ![](https://raw.githubusercontent.com/Rafael-Cheng/doubanBooks/master/resource/5.png)
 
 ----
 
@@ -64,12 +70,9 @@ The 1st version only fetches data from 10 pages, which means 150 books
 realting the key word given, and output a txt file which has a sorted list 
 of books based on mark in website book.douban.com.
 
-The other one however, fetches data from 10 * 3 pages, which means 450 books. 
-I think it's enough for us to choose a good book. But it's possible to 
-search more books.
+The other  version, fetches data from 10 * 3 pages, which means 450 books. 
 
-So if you need more data to help you make a decision. Tell me.
-
+For more information or help, send an email to me.
 ----
 
 ### Contact

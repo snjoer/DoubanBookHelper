@@ -1,22 +1,26 @@
 book title: <<Python Cookbook>>
 pub info: David Beazley、Brian K. Jones / O'Reilly Media / 2013-5-29 / USD 49.99
-rate: 9.5 (52人评价)
+rate: 9.5 (54人评价)
 
 book title: <<Fluent Python>>
 pub info: Luciano Ramalho / O'Reilly Media / 2015-8-20 / USD 39.99
-rate: 9.5 (43人评价)
+rate: 9.5 (52人评价)
 
 book title: <<Problem Solving with Algorithms and Data Structures Using Python>>
 pub info: Bradley N. Miller、David L. Ranum / Franklin Beedle & Associates / 2005-9-1 / USD 45.00
-rate: 9.3 (21人评价)
+rate: 9.3 (22人评价)
+
+book title: <<Problem Solving with Algorithms and Data Structures Using Python SECOND EDITION>>
+pub info: Bradley N. Miller、David L. Ranum / Franklin, Beedle & Associates / 2011-8-22 / USD 45.00
+rate: 9.1 (24人评价)
 
 book title: <<知乎周刊·编程小白学 Python（总第103期） 豆瓣阅读杂志>>
 pub info: zhihu.com / 2015-12-03 / 免费
-rate: 9.0 (304人评价)
+rate: 9.0 (355人评价)
 
 book title: <<Introduction to Computation and Programming Using Python : Revised and expanded edition>>
 pub info: John V. Guttag / The MIT Press / 2013-7 / USD 25.00
-rate: 9.0 (21人评价)
+rate: 9.0 (20人评价)
 
 book title: <<Python Algorithms : Mastering Basic Algorithms in the Python Language>>
 pub info: Magnus Lie Hetland / Apress / 2010-11-24 / USD 49.99
@@ -24,71 +28,71 @@ rate: 8.9 (58人评价)
 
 book title: <<A Byte of Python : 简明 Python 教程>>
 pub info: Swaroop C H / 沈洁元 / Lulu Marketplace / 2008-10-1 / USD 27.98
-rate: 8.8 (846人评价)
+rate: 8.8 (860人评价)
 
 book title: <<Automate the Boring Stuff with Python : Practical Programming for Total Beginners>>
 pub info: Albert Sweigart / No Starch Press / 2015-2-25 / USD 29.95
-rate: 8.8 (19人评价)
+rate: 8.8 (25人评价)
 
 book title: <<Beginning Python : From Novice to Professional (Beginning: From Novice to Professional)>>
 pub info: Magnus Lie Hetland / Apress / 2005-09-26 / USD 44.99
 rate: 8.8 (44人评价)
 
+book title: <<Think Python : An Introduction to Software Design: How To Think Like A Computer Scientist>>
+pub info: Allen B. Downey / CreateSpace / 2009-02-27 / USD 22.95
+rate: 8.8 (31人评价)
+
 book title: <<Python源码剖析 : 深度探索动态语言核心技术>>
 pub info: 陈儒 / 电子工业出版社 / 2008-6 / 69.80元
-rate: 8.7 (596人评价)
+rate: 8.7 (604人评价)
+
+book title: <<Flask Web开发：基于Python的Web应用开发实战>>
+pub info: [美] Miguel Grinberg / 安道 / 人民邮电出版社 / 2014-12 / 59.00元
+rate: 8.7 (205人评价)
 
 book title: <<Invent Your Own Computer Games with Python, 2nd Edition>>
 pub info: Albert Sweigart / Albert\Sweigart / May 1, 2010 / $ 28.26
 rate: 8.7 (25人评价)
 
 book title: <<Learning Python>>
-pub info: Mark Lutz / O'Reilly Media / 2013-7-3 / CAD 67.99
-rate: 8.7 (43人评价)
-
-book title: <<Think Python : An Introduction to Software Design: How To Think Like A Computer Scientist>>
-pub info: Allen B. Downey / CreateSpace / 2009-02-27 / USD 22.95
-rate: 8.7 (30人评价)
+pub info: Mark Lutz / O'Reilly Media / 2013-7-6 / USD 64.99
+rate: 8.7 (46人评价)
 
 book title: <<Python for Informatics : Exploring Information>>
 pub info: Dr. Charles R Severance / CreateSpace Independent Publishing Platform / 2013-9-2 / USD 9.99
-rate: 8.7 (56人评价)
+rate: 8.7 (62人评价)
+
+book title: <<利用Python进行数据分析>>
+pub info: Wes McKinney / 唐学韬 / 机械工业出版社 / 2013-11-18 / 89.00
+rate: 8.6 (269人评价)
 
 book title: <<Python Cookbook : （第2版）中文版>>
 pub info: Alex Martelli、Anna Ravenscroft、David Ascher / 高铁军 / 人民邮电出版社 / 2010-5-1 / 99.00元
-rate: 8.6 (266人评价)
+rate: 8.6 (277人评价)
 
 book title: <<Python标准库>>
 pub info: Doug Hellmann / 刘炽 / 机械工业出版社华章公司 / 2012-6-15 / 139.00元
-rate: 8.6 (102人评价)
+rate: 8.6 (103人评价)
 
 book title: <<Python Tutorial>>
 pub info: Guido Van Rossum、Fred L. Drake, Jr (editor) / Iuniverse Inc / April 2000 / USD 12.95
 rate: 8.6 (179人评价)
 
-book title: <<Flask Web开发：基于Python的Web应用开发实战>>
-pub info: [美] Miguel Grinberg / 安道 / 人民邮电出版社 / 2014-12 / 59.00元
-rate: 8.6 (180人评价)
-
-book title: <<深入浅出Python（影印版）>>
-pub info: Paul Barry / 东南大学出版社 / 2011-5 / 88.00元
-rate: 8.6 (41人评价)
-
 book title: <<Beginning Python : From Novice to Professional, Second Edition>>
 pub info: Magnus Lie Hetland / Apress / 2008 / $45
 rate: 8.6 (35人评价)
 
-book title: <<利用Python进行数据分析>>
-pub info: Wes McKinney / 唐学韬 / 机械工业出版社 / 2013-11-18 / 89.00
-rate: 8.5 (234人评价)
+book title: <<Learn Python the Hard Way : A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code>>
+pub info: Zed A. Shaw / Addison-Wesley Professional / 2013-10-11 / USD 39.99
+rate: 8.5 (266人评价)
 
 book title: <<How to Think Like a Computer Scientist: Learning with Python>>
 pub info: Allen B. Downey、Jeffrey Elkner、Chris Meyers / Green Tea Press / 2002-1-4 / USD 24.95
-rate: 8.5 (128人评价)
+rate: 8.5 (129人评价)
 
 book title: <<Dive Into Python 3>>
 pub info: Mark Pilgrim / Apress / 2009-11-6 / USD 44.99
-rate: 8.5 (150人评价)
+rate: 8.5 (153人评价)
 
 book title: <<Python Essential Reference : 4th Edition. Developer's Library>>
 pub info: David M. Beazley / Addison-Wesley Professional / 2009-07-19 / USD 49.99
@@ -98,45 +102,57 @@ book title: <<Rapid GUI Programming with Python and Qt : The Definitive Guide to
 pub info: Mark Summerfield / Prentice Hall / 2007-10-18 / GBP 39.99
 rate: 8.5 (57人评价)
 
+book title: <<深入浅出Python（影印版）>>
+pub info: Paul Barry / 东南大学出版社 / 2011-5 / 88.00元
+rate: 8.5 (43人评价)
+
 book title: <<学习PYTHON 第三版(英文影印版) : LEARNING PYTHON， 3RD EDITION>>
 pub info: (美国)(Lutz.M.)卢茨 / 东南大学出版社 / 2008-8-1 / 88.00元
 rate: 8.5 (57人评价)
 
-book title: <<Web Scraping with Python : Collecting Data from the Modern Web>>
-pub info: Ryan Mitchell / O'Reilly Media / 2015-7-24 / USD 31.99
-rate: 8.5 (45人评价)
-
-book title: <<Django入门教程 豆瓣阅读作品>>
-pub info: 〔美〕Django社区 / 2013-03-11 / 免费
-rate: 8.4 (175人评价)
-
-book title: <<Python Cookbook>>
-pub info: Alex Martelli、Anna Ravenscroft、David Ascher / O'Reilly Media / 2005-3-18 / USD 49.95
-rate: 8.4 (216人评价)
-
-book title: <<Learn Python the Hard Way : A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code>>
-pub info: Zed A. Shaw / Addison-Wesley Professional / 2013-10-11 / USD 39.99
-rate: 8.4 (254人评价)
-
 book title: <<Pro Python>>
 pub info: Marty Alchin / Apress / 2010-06-15 / USD 49.99
-rate: 8.4 (32人评价)
+rate: 8.5 (33人评价)
+
+book title: <<Web Scraping with Python : Collecting Data from the Modern Web>>
+pub info: Ryan Mitchell / O'Reilly Media / 2015-7-24 / USD 31.99
+rate: 8.5 (57人评价)
 
 book title: <<Python Cookbook 中文版，第 3 版>>
 pub info: David M. Beazley、Brian K. Jones / 陈舸 / 人民邮电出版社 / 2015-5-1 / 108.00元
-rate: 8.4 (21人评价)
+rate: 8.5 (22人评价)
+
+book title: <<Django入门教程 豆瓣阅读作品>>
+pub info: 〔美〕Django社区 / 2013-03-11 / 免费
+rate: 8.4 (177人评价)
+
+book title: <<Python Cookbook>>
+pub info: Alex Martelli、Anna Ravenscroft、David Ascher / O'Reilly Media / 2005-3-18 / USD 49.95
+rate: 8.4 (217人评价)
 
 book title: <<Dive Into Python>>
 pub info: Mark Pilgrim / Apress / 19 July, 2004 / $39.99
-rate: 8.3 (1075人评价)
+rate: 8.3 (1078人评价)
 
 book title: <<Python编程（第三版·英文影印版）>>
 pub info: Mark Lutz / 东南大学出版社 / 2006 / 138.00元
 rate: 8.3 (163人评价)
 
+book title: <<Natural Language Processing with Python : Analyzing Text with the Natural Language Toolkit>>
+pub info: Steven Bird、Ewan Klein、Edward Loper / O'Reilly Media / 2009-7-10 / USD 44.99
+rate: 8.3 (113人评价)
+
+book title: <<Think Python : How to Think Like a Computer Scientist>>
+pub info: Allen B. Downey / O'Reilly Media / 2012-6 / $39.99
+rate: 8.3 (173人评价)
+
 book title: <<Learning Python, 3rd Edition>>
 pub info: Mark Lutz / O'Reilly Media, Inc. / 2007-10-22 / USD 39.99
-rate: 8.3 (196人评价)
+rate: 8.3 (197人评价)
+
+book title: <<Expert Python Programming : Best practices for designing, coding, and distributing your Python software>>
+pub info: Tarek Ziadé / Packt / 2008.9 / 45
+rate: 8.3 (72人评价)
 
 book title: <<Learn Python The Hard Way, 2nd Edition>>
 pub info: Zed Shaw / 2011
@@ -146,57 +162,37 @@ book title: <<Python in a Nutshell, Second Edition : in a Nutshell>>
 pub info: Alex Martelli / O'Reilly Media / 2006-7-24 / USD 39.99
 rate: 8.3 (49人评价)
 
-book title: <<趣学Python编程>>
-pub info: Jason Briggs / 尹哲 / 人民邮电出版社 / 2014-3 / 45.00元
-rate: 8.3 (43人评价)
-
-book title: <<Effective Python : 59 Specific Ways to Write Better Python>>
-pub info: Brett Slatkin / Addison-Wesley Professional / 2015-3-8 / USD 39.99
-rate: 8.3 (23人评价)
-
 book title: <<Dive Into Python 3>>
 pub info: Mark Pilgrim / CreateSpace Independent Publishing Platform / 2010-1-31 / USD 34.95
 rate: 8.3 (27人评价)
+
+book title: <<Python学习手册 : （第3版）>>
+pub info: Mark Lutz / 侯靖 / 机械工业出版社 / 2009-8 / 89.00元
+rate: 8.2 (755人评价)
 
 book title: <<Python for Kids : A Playful Introduction to Programming>>
 pub info: Jason R. Briggs / No Starch Press / 2012-12-22 / USD 34.95
 rate: 8.2 (22人评价)
 
-book title: <<Python学习手册 : （第3版）>>
-pub info: Mark Lutz / 侯靖 / 机械工业出版社 / 2009-8 / 89.00元
-rate: 8.2 (748人评价)
-
-book title: <<Head First Python（中文版）>>
-pub info: 巴里（Barry.P.） / 林琪 等 / 中国电力出版社 / 2012-3-1 / 68.00元
-rate: 8.2 (363人评价)
-
 book title: <<Python自然语言处理>>
 pub info: (英)伯德、(英)克莱因、(美)洛普 / 东南大学出版社 / 2010-6 / 64.00元
 rate: 8.2 (132人评价)
 
-book title: <<Natural Language Processing with Python : Analyzing Text with the Natural Language Toolkit>>
-pub info: Steven Bird、Ewan Klein、Edward Loper / O'Reilly Media / 2009-7-10 / USD 44.99
-rate: 8.2 (111人评价)
-
 book title: <<Learning Python : Powerful Object-Oriented Programming>>
 pub info: Mark Lutz / O'Reilly Media / 2009-10-9 / USD 54.99
-rate: 8.2 (190人评价)
-
-book title: <<Think Python : How to Think Like a Computer Scientist>>
-pub info: Allen B. Downey / O'Reilly Media / 2012-6 / $39.99
-rate: 8.2 (168人评价)
+rate: 8.2 (192人评价)
 
 book title: <<像计算机科学家一样思考Python>>
 pub info: (美)Allen B.Downey / 赵普明 / 人民邮电出版社 / 2013-8 / 49
-rate: 8.2 (100人评价)
-
-book title: <<Expert Python Programming : Best practices for designing, coding, and distributing your Python software>>
-pub info: Tarek Ziadé / Packt / 2008.9 / 45
-rate: 8.2 (71人评价)
+rate: 8.2 (108人评价)
 
 book title: <<Building Machine Learning Systems with Python>>
 pub info: Willi Richert、Luis Pedro Coelho / Packt Publishing / 2013-7-26 / USD 49.99
 rate: 8.2 (31人评价)
+
+book title: <<趣学Python编程>>
+pub info: Jason Briggs / 尹哲 / 人民邮电出版社 / 2014-3 / 45.00元
+rate: 8.2 (44人评价)
 
 book title: <<Test-Driven Development with Python : Obey the Testing Goat: Using Django, Selenium, and JavaScript>>
 pub info: Harry J. W. Percival / O'Reilly Media / 2014-6-29 / USD 44.99
@@ -210,9 +206,13 @@ book title: <<Python Pocket Reference : Python in Your Pocket>>
 pub info: Mark Lutz / O'Reilly Media / 2009-10-15 / USD 14.99
 rate: 8.2 (17人评价)
 
+book title: <<Head First Python（中文版）>>
+pub info: 巴里（Barry.P.） / 林琪 等 / 中国电力出版社 / 2012-3-1 / 68.00元
+rate: 8.1 (379人评价)
+
 book title: <<Python for Data Analysis : Data Wrangling with Pandas, NumPy, and IPython>>
 pub info: Wes McKinney / O'Reilly Media / 2012-11-1 / USD 39.99
-rate: 8.1 (130人评价)
+rate: 8.1 (134人评价)
 
 book title: <<Learn Python The Hard Way, 1st Edition>>
 pub info: Zed Shaw / Lulu.com / 2010 / $29.99
@@ -230,53 +230,61 @@ book title: <<Learning Python, 4th Edition, Ebook : Powerful Object-Oriented Pro
 pub info: Mark Lutz / O'Reilly Media / 2009-9
 rate: 8.1 (37人评价)
 
-book title: <<Problem Solving with Algorithms and Data Structures Using Python SECOND EDITION>>
-pub info: Bradley N. Miller、David L. Ranum / Franklin, Beedle & Associates / 2011-8-22 / USD 45.00
-rate: 8.1 (20人评价)
+book title: <<Data Structures and Algorithms in Python>>
+pub info: Michael T. Goodrich、Roberto Tamassia、Michael H. Goldwasser / Wiley / 2013-3-18 / $ 176.00
+rate: 8.1 (16人评价)
+
+book title: <<Effective Python : 59 Specific Ways to Write Better Python>>
+pub info: Brett Slatkin / Addison-Wesley Professional / 2015-3-8 / USD 39.99
+rate: 8.1 (30人评价)
+
+book title: <<Python 3 Object Oriented Programming>>
+pub info: Dusty Phillips / Packt / 2010 / £21.99
+rate: 8.1 (15人评价)
 
 book title: <<Python基础教程>>
 pub info: Magnus Lie Hetland / 司维、曾军崴、谭颖华 / 人民邮电出版社 / 2010年7月 / 69.00元
-rate: 8.0 (1323人评价)
+rate: 8.0 (1356人评价)
 
 book title: <<Python科学计算>>
 pub info: 张若愚 / 清华大学出版社 / 2012-1 / 98.00元
-rate: 8.0 (149人评价)
+rate: 8.0 (155人评价)
 
 book title: <<"笨办法"学Python>>
 pub info: 肖 (Zed A.Shaw) / 王巍巍 译 / 人民邮电出版社 / 2014-11-1 / CNY 49.00
-rate: 8.0 (188人评价)
+rate: 8.0 (212人评价)
 
 book title: <<Head First Python>>
 pub info: Paul Barry / O'Reilly Media / 2010-11-30 / USD 49.99
-rate: 8.0 (191人评价)
+rate: 8.0 (196人评价)
 
 book title: <<Python入门经典 : 以解决计算问题为导向的Python编程实践>>
 pub info: (美)William F. Punch/Richard Enbody / 张敏 / 机械工业出版社 / 2012-8-1 / 79.00元
-rate: 8.0 (70人评价)
+rate: 8.0 (71人评价)
 
 book title: <<Programming Python : 3rd edition>>
 pub info: Mark Lutz / O'Reilly Media / 2006-8-30 / USD 59.99
 rate: 8.0 (74人评价)
 
+book title: <<Python Programming : An Introduction to Computer Science>>
+pub info: John M. Zelle / Franklin Beedle & Assoc / 2003-12 / USD 40.00
+rate: 8.0 (26人评价)
+
 book title: <<Beginning Game Development with Python and Pygame : From Novice to Professional>>
 pub info: Will McGugan / Apress / August 20, 2007 / $26.39
 rate: 8.0 (25人评价)
-
-book title: <<Data Structures and Algorithms in Python>>
-pub info: Michael T. Goodrich、Roberto Tamassia、Michael H. Goldwasser / Wiley / 2013-3-18 / $ 176.00
-rate: 8.0 (13人评价)
 
 book title: <<Python for Software Design : How to Think Like a Computer Scientist>>
 pub info: Allen B. Downey / Cambridge University Press / 2009 / $39.99
 rate: 8.0 (23人评价)
 
+book title: <<Python学习手册（第4版）>>
+pub info: [美] Mark Lutz / 李军、刘红伟 / 机械工业出版社 / 2011-4 / 119.00元
+rate: 7.9 (327人评价)
+
 book title: <<Python Cookbook>>
 pub info: Alex Martelli、David Ascher / O'Reilly / 2002
 rate: 7.9 (14人评价)
-
-book title: <<Python学习手册（第4版）>>
-pub info: [美] Mark Lutz / 李军、刘红伟 / 机械工业出版社 / 2011-4 / 119.00元
-rate: 7.9 (312人评价)
 
 book title: <<Making Games with Python & Pygame>>
 pub info: Al Sweigart / CreateSpace Independent Publishing Platform / 2012-1-12 / USD 25.01
@@ -286,57 +294,53 @@ book title: <<Python 编程金典>>
 pub info: P.J.Deitel、J.P.Liperi、B.A.Wiedermann、H.M.Deitel / 清华大学出版社 / 2003-6 / 88.00元
 rate: 7.9 (81人评价)
 
-book title: <<Python Programming : An Introduction to Computer Science>>
-pub info: John M. Zelle / Franklin Beedle & Assoc / 2003-12 / USD 40.00
-rate: 7.9 (25人评价)
+book title: <<Python算法教程>>
+pub info: [挪威] Magnus Lie Hetland 赫特兰 / 凌杰、陆禹淳、顾俊 / 人民邮电出版社 / 2016-1-1 / 69.00元
+rate: 7.9 (20人评价)
+
+book title: <<Python语言及其应用 : Python语言及其应用>>
+pub info: [美] Bill Lubanovic / 丁嘉瑞、梁 杰、禹常隆 / 人民邮电出版社 / 2015-12 / 79.00元
+rate: 7.9 (28人评价)
 
 book title: <<Introduction to Computation and Programming Using Python>>
 pub info: John V. Guttag / The MIT Press / 2013-1-18 / USD 25.00
 rate: 7.9 (12人评价)
 
-book title: <<Python编程实战 : 运用设计模式、并发和程序库创建高质量程序>>
-pub info: [美] Mark Summerfield / 爱飞翔 / 机械工业出版社 / 2014-8 / 69.00元
-rate: 7.8 (30人评价)
-
-book title: <<Python for Data Analysis : Python大数据分析基础教程>>
-pub info: Wesly McKinney / O'Reilly Media / 2013-6-16
-rate: 7.8 (46人评价)
-
 book title: <<Python高手之路>>
 pub info: Julien Danjou / 王飞龙 / 人民邮电出版社 / 2015-5 / 49.00元
-rate: 7.8 (58人评价)
-
-book title: <<Python算法教程>>
-pub info: [挪威] Magnus Lie Hetland 赫特兰 / 凌杰、陆禹淳、顾俊 / 人民邮电出版社 / 2016-1-1 / 69.00元
-rate: 7.8 (13人评价)
+rate: 7.8 (61人评价)
 
 book title: <<Python计算机视觉编程>>
 pub info: [瑞典] Jan Erik Solem / 朱文涛、袁勇 / 人民邮电出版社 / 2014-6-10 / 69.00
 rate: 7.8 (21人评价)
 
-book title: <<Python in a Nutshell>>
-pub info: Alex Martelli / O'Reilly Media, Inc. / 2003-03 / USD 34.95
-rate: 7.7 (10人评价)
-
 book title: <<Python核心编程（第二版）>>
 pub info: [美]Wesley J. Chun（陳仲才） / CPUG / 人民邮电出版社 / 2008-06 / 89.00元
-rate: 7.7 (1239人评价)
+rate: 7.7 (1268人评价)
 
 book title: <<Python高级编程>>
 pub info: Tarek Ziadé / 姚军、夏海轮、译 / 人民邮电出版社 / 2010-1 / 45.00元
-rate: 7.7 (203人评价)
+rate: 7.7 (207人评价)
+
+book title: <<Python in a Nutshell>>
+pub info: Alex Martelli / O'Reilly Media, Inc. / 2003-03 / USD 34.95
+rate: 7.7 (10人评价)
 
 book title: <<Python语言在Abaqus中的应用>>
 pub info: 曹金凤、王旭春、孔亮 / 机械工业出版社 / 2011-8-1 / 48.00元
 rate: 7.7 (11人评价)
 
-book title: <<Python Web开发：测试驱动方法 : 测试驱动方法>>
-pub info: Harry J.W. Percival / 安道 / 人民邮电出版社 / 2015-10 / 99
-rate: 7.7 (25人评价)
-
 book title: <<PYTHON技术手册>>
 pub info: 马特利 / 东南大学出版社 / 2006-11 / 78.00元
 rate: 7.7 (131人评价)
+
+book title: <<Python Web开发实战>>
+pub info: 董伟明 / 电子工业出版社 / 2016-9-15 / 105
+rate: 7.7 (17人评价)
+
+book title: <<Python for Data Analysis : Python大数据分析基础教程>>
+pub info: Wesly McKinney / O'Reilly Media / 2013-6-16
+rate: 7.7 (48人评价)
 
 book title: <<High Performance Python : Practical Performant Programming for Humans>>
 pub info: Micha Gorelick、Ian Ozsvald / O'Reilly Media / 2014-9-10 / USD 39.99
@@ -354,9 +358,17 @@ book title: <<Python 2.1宝典>>
 pub info: (美)Dava Brueck Stephen Tanner / 陈河南、王晓娟、等 / 电子工业出版社 / 2002-01-01 / 59.00
 rate: 7.7 (12人评价)
 
+book title: <<从零开始学 Python 豆瓣阅读作品>>
+pub info: 杨兵 / 2016-08-15 / 9.90元
+rate: 7.6 (14人评价)
+
 book title: <<Python UNIX 和Linux 系统管理指南>>
 pub info: 基弗特 (Gift, Noab)、琼斯 (Jones, Jeremy M.) / 杨明华、谭励 / 机械工业出版社 / 2009-9 / 65.00元
 rate: 7.6 (160人评价)
+
+book title: <<Python编程实战 : 运用设计模式、并发和程序库创建高质量程序>>
+pub info: [美] Mark Summerfield / 爱飞翔 / 机械工业出版社 / 2014-8 / 69.00元
+rate: 7.6 (33人评价)
 
 book title: <<Python for Unix and Linux System Administration>>
 pub info: Noah Gift、Jeremy Jones / O'Reilly Media / 2008-08-22 / USD 49.99
@@ -368,11 +380,19 @@ rate: 7.6 (15人评价)
 
 book title: <<Python for Finance : Analyze Big Financial Data>>
 pub info: Yves Hilpisch / O'Reilly Media / 2014-12-27 / USD 44.99
-rate: 7.6 (13人评价)
+rate: 7.6 (14人评价)
 
 book title: <<Python Standard Library>>
 pub info: Fredrik Lundh / O'Reilly Media, Inc. / 2001-05 / USD 29.95
 rate: 7.6 (23人评价)
+
+book title: <<Programming in Python 3 : A Complete Introduction to the Python Language>>
+pub info: Mark Summerfield / Addison-Wesley Professional / 2008-12-26 / USD 44.99
+rate: 7.6 (14人评价)
+
+book title: <<Python灰帽子 : 黑客与逆向工程师的Python编程之道>>
+pub info: [美] Justin Seitz / 丁赟卿 译、崔孝晨 审校 / 电子工业出版社 / 2011-3 / 39.00元
+rate: 7.5 (166人评价)
 
 book title: <<Python编程 第4版 影印版 上下册 : Python编程>>
 pub info: 鲁兹 / 东南大学出版社 / 2011-5 / 148.00元
@@ -382,21 +402,17 @@ book title: <<Dive Into Python>>
 pub info: Mark Pilgrim / CreateSpace Independent Publishing Platform / 2009-3-20 / USD 34.95
 rate: 7.5 (17人评价)
 
-book title: <<Python灰帽子 : 黑客与逆向工程师的Python编程之道>>
-pub info: [美] Justin Seitz / 丁赟卿 译、崔孝晨 审校 / 电子工业出版社 / 2011-3 / 39.00元
-rate: 7.5 (164人评价)
-
 book title: <<编写高质量代码：改善Python程序的91个建议>>
 pub info: 张颖、赖勇浩 / 机械工业出版社 / 2014-6 / 59.00元
-rate: 7.5 (194人评价)
+rate: 7.5 (201人评价)
 
-book title: <<真实世界的Python仪器监控 : 数据采集与控制系统自动化>>
-pub info: 约翰·休斯 / OBP Group / 电子工业出版社 / 2013-1 / 89.00元
-rate: 7.5 (22人评价)
+book title: <<用Python学编程>>
+pub info: (美)Alan Gauld / 清华大学出版社 / 2002-9 / 32.00元
+rate: 7.5 (10人评价)
 
-book title: <<Text Processing in Python>>
-pub info: David Mertz / Addison-Wesley Professional / 2003-6-12 / USD 54.99
-rate: 7.5 (31人评价)
+book title: <<Python Web开发：测试驱动方法 : 测试驱动方法>>
+pub info: Harry J.W. Percival / 安道 / 人民邮电出版社 / 2015-10 / 99
+rate: 7.5 (27人评价)
 
 book title: <<Python网络编程基础>>
 pub info: 高森 / 莫迟 / 电子工业出版社 / 2007-6 / 68.00元
@@ -404,23 +420,11 @@ rate: 7.5 (36人评价)
 
 book title: <<Python金融大数据分析>>
 pub info: [德] 伊夫·希尔皮斯科 / 姚军 / 人民邮电出版社 / 2015-12 / CNY 99.00
-rate: 7.5 (15人评价)
-
-book title: <<Python 3 Object Oriented Programming>>
-pub info: Dusty Phillips / Packt / 2010 / £21.99
-rate: 7.5 (13人评价)
-
-book title: <<Programming in Python 3 : A Complete Introduction to the Python Language>>
-pub info: Mark Summerfield / Addison-Wesley Professional / 2008-12-26 / USD 44.99
-rate: 7.5 (13人评价)
+rate: 7.5 (18人评价)
 
 book title: <<Core Python Applications Programming>>
 pub info: Wesley Chun / Prentice Hall / 2012-3-19 / GBP 33.99
-rate: 7.5 (11人评价)
-
-book title: <<Learning Python, 5th Edition>>
-pub info: Mark Lutz / O'Reilly Media / 2013-6-26 / $47.99
-rate: 7.4 (10人评价)
+rate: 7.5 (13人评价)
 
 book title: <<可爱的Python>>
 pub info: 哲思社区 / 电子工业出版社 / 2009-9 / 55.00元
@@ -430,33 +434,33 @@ book title: <<Python语言入门>>
 pub info: [美] Mark Lutz、David Ascber / 陈革、冯大辉 / 中国电力出版社 / 2001-4 / 55.00元
 rate: 7.4 (234人评价)
 
-book title: <<Python数据分析与挖掘实战>>
-pub info: 张良均、王路、谭立云、苏剑林 / 机械工业出版社 / 2016-1 / 69.00元
-rate: 7.4 (14人评价)
+book title: <<Python参考手册（第4版）>>
+pub info: David M.Beazley / 谢俊、杨越、高伟 / 人民邮电出版社 / 2010-12 / 89.00元
+rate: 7.4 (137人评价)
 
 book title: <<Python语言程序设计 : （英文版）>>
 pub info: （美）Y. Daniel Liang / 机械工业出版社 / 2013-3 / 79.00元
 rate: 7.4 (13人评价)
 
-book title: <<Python参考手册（第4版）>>
-pub info: David M.Beazley / 谢俊、杨越、高伟 / 人民邮电出版社 / 2010-12 / 89.00元
-rate: 7.4 (136人评价)
+book title: <<真实世界的Python仪器监控 : 数据采集与控制系统自动化>>
+pub info: 约翰·休斯 / OBP Group / 电子工业出版社 / 2013-1 / 89.00元
+rate: 7.4 (23人评价)
+
+book title: <<Text Processing in Python>>
+pub info: David Mertz / Addison-Wesley Professional / 2003-6-12 / USD 54.99
+rate: 7.4 (32人评价)
 
 book title: <<python黑帽子 : 黑客与渗透测试编程之道>>
 pub info: [美]Justin Seitz / 孙松柏、李聪、润秋 / 电子工业出版社 / 2015-8-1 / 55
-rate: 7.4 (29人评价)
+rate: 7.4 (31人评价)
 
 book title: <<Data Structures and Algorithms Using Python>>
 pub info: Rance D. Necaise / Wiley / 2010-12-21 / 730.00元
 rate: 7.4 (36人评价)
 
-book title: <<Python Machine Learning>>
-pub info: Sebastian Raschka / Packt Publishing - ebooks Account / 2015-9 / USD 44.99
-rate: 7.4 (11人评价)
-
 book title: <<Python编程入门（第3版）>>
 pub info: [加] Toby Donaldson / 袁国忠 / 人民邮电出版社 / 2013-11 / 39.00
-rate: 7.4 (65人评价)
+rate: 7.4 (66人评价)
 
 book title: <<The Python Standard Library by Example>>
 pub info: Doug Hellmann / Addison-Wesley Professional / 2011-6-11 / USD 59.99
@@ -478,9 +482,13 @@ book title: <<Python Text Processing with NLTK 2.0 Cookbook>>
 pub info: Jacob Perkins / Packt Publishing / 2010-11-11 / USD 39.99
 rate: 7.4 (11人评价)
 
-book title: <<Introducing Python : Modern Computing in Simple Packages>>
-pub info: Bill Lubanovic / OReilly / 2014-11-7 / USD 39.99
-rate: 7.3 (14人评价)
+book title: <<Python Machine Learning>>
+pub info: Sebastian Raschka / Packt Publishing - ebooks Account / 2015-9 / USD 44.99
+rate: 7.4 (11人评价)
+
+book title: <<Python 3程序开发指南>>
+pub info: （美）萨默菲尔德 / 王弘博、孙传庆 / 人民邮电出版社 / 2011-2-1 / 69.00元
+rate: 7.3 (74人评价)
 
 book title: <<Python计算与编程实践 : Python计算与编程实践·多媒体方法>>
 pub info: （美）Mark Guzdial、（美）Barbara Ericson / 王江平 / 机械工业出版社 / 2012-7 / 69.00元
@@ -490,41 +498,61 @@ book title: <<Python在Unix和Linux系统管理中的应用>>
 pub info: 开明出版社 / 2009-4 / 64.00元
 rate: 7.3 (19人评价)
 
+book title: <<Introducing Python : Modern Computing in Simple Packages>>
+pub info: Bill Lubanovic / OReilly / 2014-11-7 / USD 39.99
+rate: 7.3 (16人评价)
+
 book title: <<Matplotlib for Python Developers>>
 pub info: Sandro Tosi / Packt Publishing / 2009-11-12 / USD 44.99
 rate: 7.3 (19人评价)
 
-book title: <<Pro Android Python with SL4A : Writing Android Native Apps Using Python, Lua, and Beanshell>>
-pub info: Paul Ferrill / APRESS ACADEMIC / 2011-6-27 / GBP 35.99
-rate: 7.2 (10人评价)
-
-book title: <<Python编程实践>>
-pub info: Jennifer Campbell、Paul Gries、Jason Montojo、Greg Wilson / 唐学韬 / 机械工业出版社华章公司 / 2011-12-31 / 49.00元
-rate: 7.2 (83人评价)
-
-book title: <<Python 3程序开发指南>>
-pub info: （美）萨默菲尔德 / 王弘博、孙传庆 / 人民邮电出版社 / 2011-2-1 / 69.00元
-rate: 7.2 (72人评价)
-
-book title: <<Python自然语言处理>>
-pub info: (美)Steven Bird Ewan Klein Edward Loper / 张旭、崔阳、刘海平 / 人民邮电出版社 / 2014-6-25 / 89.00
-rate: 7.2 (21人评价)
-
-book title: <<Beginning Python Visualization : Crafting Visual Transformation Scripts>>
-pub info: Shai Vaingast / Apress / 2009 / 42.99
+book title: <<Mastering Python Regular Expressions>>
+pub info: Félix López、Víctor Romero / Packt Publishing - ebooks Account / 2014-2-26 / USD 24.99
 rate: 7.2 (12人评价)
 
 book title: <<Learning scikit-learn: Machine Learning in Python>>
 pub info: Raúl Garreta、Guillermo Moncecchi / Packt Publishing / 2013-11-25 / USD 29.99
 rate: 7.2 (12人评价)
 
-book title: <<Python in Practice : Create Better Programs Using Concurrency, Libraries, and Patterns>>
-pub info: Mark Summerfield / Addison-Wesley Professional / 2013-8-29 / USD 39.99
-rate: 7.1 (11人评价)
+book title: <<Learning Python, 5th Edition>>
+pub info: Mark Lutz / O'Reilly Media / 2013-6-26 / $47.99
+rate: 7.2 (11人评价)
+
+book title: <<Pro Android Python with SL4A : Writing Android Native Apps Using Python, Lua, and Beanshell>>
+pub info: Paul Ferrill / APRESS ACADEMIC / 2011-6-27 / GBP 35.99
+rate: 7.2 (10人评价)
+
+book title: <<Python数据分析与挖掘实战>>
+pub info: 张良均、王路、谭立云、苏剑林 / 机械工业出版社 / 2016-1 / 69.00元
+rate: 7.2 (18人评价)
+
+book title: <<Python编程实践>>
+pub info: Jennifer Campbell、Paul Gries、Jason Montojo、Greg Wilson / 唐学韬 / 机械工业出版社华章公司 / 2011-12-31 / 49.00元
+rate: 7.2 (84人评价)
+
+book title: <<Python自然语言处理>>
+pub info: (美)Steven Bird Ewan Klein Edward Loper / 张旭、崔阳、刘海平 / 人民邮电出版社 / 2014-6-25 / 89.00
+rate: 7.2 (22人评价)
+
+book title: <<Beginning Python Visualization : Crafting Visual Transformation Scripts>>
+pub info: Shai Vaingast / Apress / 2009 / 42.99
+rate: 7.2 (12人评价)
 
 book title: <<Python网络编程基础 : 使用Python构建网络程序的综合指南>>
 pub info: John Goerzen / 莫迟 等 / 电子工业出版社 / 2007 / 68.00
 rate: 7.1 (282人评价)
+
+book title: <<Python in Practice : Create Better Programs Using Concurrency, Libraries, and Patterns>>
+pub info: Mark Summerfield / Addison-Wesley Professional / 2013-8-29 / USD 39.99
+rate: 7.1 (11人评价)
+
+book title: <<python绝技：运用python成为顶级黑客 : 运用Python成为顶级黑客>>
+pub info: [美] TJ O'Connor / 崔孝晨、武晓音 / 电子工业出版社 / 2016-1 / 79.00元
+rate: 7.0 (12人评价)
+
+book title: <<Foundations of Python Network Programming : The comprehensive guide to building network applications with Python>>
+pub info: John Goerzen、Tim Bower、Brandon Rhodes / Apress / 2010-12-20 / USD 54.99
+rate: 7.0 (29人评价)
 
 book title: <<Python技术参考大全>>
 pub info: Martin C.Brown著、康博译 / 康博 / 清华大学出版社 / 2002-4 / 54.00
@@ -538,10 +566,6 @@ book title: <<Python与Tkinter编程>>
 pub info: 陈文志 / 国防工业出版社 / 2002-09-01 / 66.00元
 rate: 7.0 (14人评价)
 
-book title: <<Foundations of Python Network Programming : The comprehensive guide to building network applications with Python>>
-pub info: John Goerzen、Tim Bower、Brandon Rhodes / Apress / 2010-12-20 / USD 54.99
-rate: 6.9 (28人评价)
-
 book title: <<MongoDB and Python : Patterns and processes for the popular document-oriented database>>
 pub info: Niall O'Higgins / O'Reilly Media / 2011-9-30 / USD 19.99
 rate: 6.9 (32人评价)
@@ -554,25 +578,25 @@ book title: <<Violent Python : A Cookbook for Hackers, Forensic Analysts, Penetr
 pub info: TJ O'Connor / Syngress / 2012-11-22 / USD 49.95
 rate: 6.8 (12人评价)
 
-book title: <<Python开发实战>>
-pub info: [日] BePROUD股份有限公司 / 盛荣 / 人民邮电出版社 / 2014-6 / 79.00元
-rate: 6.7 (34人评价)
-
-book title: <<Python硬件编程实战>>
-pub info: 李茂 / 机械工业出版社 / 2015-2 / 49
-rate: 6.7 (10人评价)
+book title: <<Python Testing: Beginner's Guide : An easy and convenient approach to testing your powerful Python projects>>
+pub info: Daniel Arbuckle / packt / 2009 / USD 39.99
+rate: 6.7 (11人评价)
 
 book title: <<Python编程入门经典>>
 pub info: [美]James W. Payne / 张春晖 / 清华大学出版社 / 2011-7 / 68.00元
 rate: 6.7 (38人评价)
 
-book title: <<Python Testing: Beginner's Guide : An easy and convenient approach to testing your powerful Python projects>>
-pub info: Daniel Arbuckle / packt / 2009 / USD 39.99
-rate: 6.7 (11人评价)
+book title: <<Python硬件编程实战>>
+pub info: 李茂 / 机械工业出版社 / 2015-2 / 49
+rate: 6.7 (10人评价)
 
 book title: <<Python程序员指南>>
 pub info: 杨昆、汪兴东 / 中国青年出版社 / 2001-8-1 / 29.00
 rate: 6.6 (11人评价)
+
+book title: <<Python开发实战>>
+pub info: [日] BePROUD股份有限公司 / 盛荣 / 人民邮电出版社 / 2014-6 / 79.00元
+rate: 6.6 (36人评价)
 
 book title: <<征服Python : 语言基础与典型应用>>
 pub info: 孙广磊 / 人民邮电出版社 / 2007年9月 / 59.0
@@ -584,7 +608,7 @@ rate: 6.3 (25人评价)
 
 book title: <<Python数据分析基础教程（第2版） : NumPy学习指南>>
 pub info: 伊德里斯 (Ivan Idris) / 张驭宇 / 人民邮电出版社 / 2014-1-1 / 49.00元
-rate: 6.1 (25人评价)
+rate: 6.1 (26人评价)
 
 book title: <<Python Web开发学习实录 : Python Web开发学习实录>>
 pub info: 李勇、王文强 / 清华大学出版社 / 2011-10 / 66.00元
@@ -592,7 +616,63 @@ rate: 5.8 (29人评价)
 
 book title: <<Python自动化运维 : 技术与最佳实践>>
 pub info: 刘天斯 / 机械工业出版社 / 2014-11-1 / 69.00
-rate: 5.7 (58人评价)
+rate: 5.7 (61人评价)
+
+book title: <<Python for Everyone>>
+pub info: Horstmann, Cay S.; Necaise, Rance D.; / John Wiley & Sons / 2013-3 / $ 133.62
+rate: 0 (少于10人评价)
+
+book title: <<Pro Python>>
+pub info: J. Burton Browning、Marty Alchin / Apress / 2014-12-24 / USD 49.99
+rate: 0 (少于10人评价)
+
+book title: <<Mastering Python Design Patterns>>
+pub info: Sakis Kasampalis / Packt Publishing - ebooks Account / 2015-2-12 / USD 44.99
+rate: 0 (少于10人评价)
+
+book title: <<Bioinformatics Programming in Python>>
+pub info: Flaig, Ruediger-Marcus / 2008-4 / 701.00元
+rate: 0 (目前无人评价)
+
+book title: <<The Quick Python Book>>
+pub info: Daryl D Harms Ph.D.、Kenneth McDonald / Manning Publications / 2000-01-01 / USD 39.95
+rate: 0 (少于10人评价)
+
+book title: <<Sams Teach Yourself Python in 24 Hours (Teach Yourself -- 24 Hours)>>
+pub info: Ivan Van Laningham、Ivan Van Laningham / Sams / 2000-05-15 / USD 24.99
+rate: 0 (目前无人评价)
+
+book title: <<Python How to Program, 1/e>>
+pub info: Harvey M. Deitel、Paul J. Deitel、Jonathan P. Liperi、Ben Wiedermann / Prentice Hall / 2002-02-14 / USD 122.00
+rate: 0 (少于10人评价)
+
+book title: <<爱上Python : 一日精通Python编程>>
+pub info: [新加坡] Jamie Chan / 王磊 / 人民邮电出版社 / 2016-6 / 39.00元
+rate: 0 (少于10人评价)
+
+book title: <<Spring Python 1.1>>
+pub info: Greg Lee Turnquist / Packt Publishing / 2010-05-25 / USD 44.99
+rate: 0 (少于10人评价)
+
+book title: <<Everything I Ever Needed to Know About _____* I Learned from Monty Python: *History, Art, Poetry, Communism, Philosophy, the Media, Birth, Death, ... Mythology, Fish Slapping, and Many More!>>
+pub info: Brian Cogan、Jeff Massey / Thomas Dunne Books / 2014-3-18 / USD 18.15
+rate: 0 (目前无人评价)
+
+book title: <<Python Scripting for Computational Science>>
+pub info: Langtangen, Hans Petter / 2013-7 / $ 101.64
+rate: 0 (目前无人评价)
+
+book title: <<Mastering Object-Oriented Python>>
+pub info: Steven F. Lott / Packt Publishing / 2014-4-22 / USD 45
+rate: 0 (少于10人评价)
+
+book title: <<Pyomo - Optimization Modeling in Python>>
+pub info: William E. Hart、Carl Laird、Jean-Paul Watson、David L. Woodruff / Springer / 2012-2-9 / USD 59.95
+rate: 0 (少于10人评价)
+
+book title: <<Python : Guia De Referencia/ Reference Guide (Spanish Edition)>>
+pub info: Alex Martelli / Anaya Multimedia / 2008-01-02 / USD 90.95
+rate: 0 (少于10人评价)
 
 book title: <<The Complete Monty Python's Flying Circus : All the Words, Volume 2>>
 pub info: Monty Python、Graham Chapman、Eric Idle、Terry Gillian、Terry Jones / Pantheon / 1989-11-12 / USD 16.00
@@ -634,57 +714,9 @@ book title: <<A Million Little Pieces of Feces>>
 pub info: Python Bonkers / Lulu Press / 2006-2-10 / USD 18.99
 rate: 0 (目前无人评价)
 
-book title: <<Bioinformatics Programming in Python>>
-pub info: Flaig, Ruediger-Marcus / 2008-4 / 701.00元
-rate: 0 (目前无人评价)
-
 book title: <<Monty Python's Big Red Book>>
 pub info: Terry Jones, John Gleese, Eric Idle, Michael Palen ) Python Monty ( Graham Chapman / Methuen young books / 1971-09-30
 rate: 0 (目前无人评价)
-
-book title: <<The Quick Python Book>>
-pub info: Daryl D Harms Ph.D.、Kenneth McDonald / Manning Publications / 2000-01-01 / USD 39.95
-rate: 0 (少于10人评价)
-
-book title: <<Sams Teach Yourself Python in 24 Hours (Teach Yourself -- 24 Hours)>>
-pub info: Ivan Van Laningham、Ivan Van Laningham / Sams / 2000-05-15 / USD 24.99
-rate: 0 (目前无人评价)
-
-book title: <<Python How to Program, 1/e>>
-pub info: Harvey M. Deitel、Paul J. Deitel、Jonathan P. Liperi、Ben Wiedermann / Prentice Hall / 2002-02-14 / USD 122.00
-rate: 0 (少于10人评价)
-
-book title: <<爱上Python : 一日精通Python编程>>
-pub info: [新加坡] Jamie Chan / 王磊 / 人民邮电出版社 / 2016-6 / 39.00元
-rate: 0 (少于10人评价)
-
-book title: <<Spring Python 1.1>>
-pub info: Greg Lee Turnquist / Packt Publishing / 2010-05-25 / USD 44.99
-rate: 0 (少于10人评价)
-
-book title: <<Everything I Ever Needed to Know About _____* I Learned from Monty Python: *History, Art, Poetry, Communism, Philosophy, the Media, Birth, Death, ... Mythology, Fish Slapping, and Many More!>>
-pub info: Brian Cogan、Jeff Massey / Thomas Dunne Books / 2014-3-18 / USD 18.15
-rate: 0 (目前无人评价)
-
-book title: <<Mastering Python Regular Expressions>>
-pub info: Félix López、Víctor Romero / Packt Publishing - ebooks Account / 2014-2-26 / USD 24.99
-rate: 0 (少于10人评价)
-
-book title: <<Python Scripting for Computational Science>>
-pub info: Langtangen, Hans Petter / 2013-7 / $ 101.64
-rate: 0 (目前无人评价)
-
-book title: <<Mastering Object-Oriented Python>>
-pub info: Steven F. Lott / Packt Publishing / 2014-4-22 / USD 45
-rate: 0 (少于10人评价)
-
-book title: <<Pyomo - Optimization Modeling in Python>>
-pub info: William E. Hart、Carl Laird、Jean-Paul Watson、David L. Woodruff / Springer / 2012-2-9 / USD 59.95
-rate: 0 (少于10人评价)
-
-book title: <<Python : Guia De Referencia/ Reference Guide (Spanish Edition)>>
-pub info: Alex Martelli / Anaya Multimedia / 2008-01-02 / USD 90.95
-rate: 0 (少于10人评价)
 
 book title: <<Core Python Programming (Prentice Hall Ptr Core Series)>>
 pub info: Wesley J. Chun / Prentice Hall PTR / 2000-12-15 / USD 44.99
@@ -697,38 +729,6 @@ rate: 0 (目前无人评价)
 book title: <<Learning with PYTHON : How to Think Like a Computer Scientist>>
 pub info: Allen Downey、Jeffrey Elkner、Chris Meyers / CreateSpace / 2009-2-27 / USD 21.95
 rate: 0 (少于10人评价)
-
-book title: <<Raspberry Pi Python编程入门>>
-pub info: Simon Monk / 姜斐祚 / 科学出版社 / 2014-1-2 / 38.00
-rate: 0 (少于10人评价)
-
-book title: <<Game Programming with Python, Lua, and Ruby (Game Development)>>
-pub info: Tom Gutschmidt / Course Technology PTR / 2003-12-01 / USD 39.99
-rate: 0 (少于10人评价)
-
-book title: <<Financial Modeling in Python>>
-pub info: Gardner, Christopher / 2009-8 / 940.00元
-rate: 0 (少于10人评价)
-
-book title: <<Python编程基础>>
-pub info: 肖建、林海波 / 清华大学出版社 / 2003-6-1 / 25.00
-rate: 0 (少于10人评价)
-
-book title: <<Bioinformatics Programming Using Python : Practical Programming for Biological Data>>
-pub info: Mitchell L Model,、James Tisdall / O'Reilly Media, Inc. / 2009 / USD 59.99
-rate: 0 (少于10人评价)
-
-book title: <<Python & XML>>
-pub info: Christopher Jones、Fred Drake、Christopher A. Jones / O'Reilly Media, Inc. / 2001-12-15 / USD 39.95
-rate: 0 (少于10人评价)
-
-book title: <<Foundations of Agile Python Development>>
-pub info: Jeff Younker / Apress / 2008-06-23 / USD 42.99
-rate: 0 (少于10人评价)
-
-book title: <<Python Playground : Geeky Projects for the Curious Programmer>>
-pub info: Mahesh Venkitachalam / No Starch Press / 2015-11-7 / USD 29.95
-rate: 0 (目前无人评价)
 
 book title: <<Monty Python's Flying Circus>>
 pub info: Larsen, Darl / 2008-6 / $ 73.45
@@ -778,6 +778,34 @@ book title: <<Monty Python Holy Grail Screenplay>>
 pub info: Graham Chapman / Methuen Publishing Ltd / 2002-10-25 / USD 14.95
 rate: 0 (少于10人评价)
 
+book title: <<Real World Instrumentation with Python : Automated Data Acquisition and Control Systems>>
+pub info: John M. Hughes / O'Reilly Media / 2010-11-29 / USD 54.99
+rate: 0 (少于10人评价)
+
+book title: <<Raspberry Pi Python编程入门>>
+pub info: Simon Monk / 姜斐祚 / 科学出版社 / 2014-1-2 / 38.00
+rate: 0 (少于10人评价)
+
+book title: <<Game Programming with Python, Lua, and Ruby (Game Development)>>
+pub info: Tom Gutschmidt / Course Technology PTR / 2003-12-01 / USD 39.99
+rate: 0 (少于10人评价)
+
+book title: <<Financial Modeling in Python>>
+pub info: Gardner, Christopher / 2009-8 / 940.00元
+rate: 0 (少于10人评价)
+
+book title: <<Python编程基础>>
+pub info: 肖建、林海波 / 清华大学出版社 / 2003-6-1 / 25.00
+rate: 0 (少于10人评价)
+
+book title: <<Bioinformatics Programming Using Python : Practical Programming for Biological Data>>
+pub info: Mitchell L Model,、James Tisdall / O'Reilly Media, Inc. / 2009 / USD 59.99
+rate: 0 (少于10人评价)
+
+book title: <<Python & XML>>
+pub info: Christopher Jones、Fred Drake、Christopher A. Jones / O'Reilly Media, Inc. / 2001-12-15 / USD 39.95
+rate: 0 (少于10人评价)
+
 book title: <<Learn to Program Using Python : A Tutorial for Hobbyists, Self-Starters, and All Who Want to Learn the Art of Computer Program>>
 pub info: Alan Gauld / Addison-Wesley Professional / 2000-12-18 / USD 32.95
 rate: 0 (目前无人评价)
@@ -789,98 +817,6 @@ rate: 0 (少于10人评价)
 book title: <<Python/C Api Manual - Python 3>>
 pub info: Guido Van Rossum、Fred L. Drake / CreateSpace Independent Publishing Platform / 2009-3-20 / USD 22.95
 rate: 0 (目前无人评价)
-
-book title: <<XML与Perl、Python和PHP编程指南>>
-pub info: Martin C.Brown、邱仲潘 / 邱仲潘 / 电子工业出版社 / 2002-4-1 / 30.00
-rate: 0 (少于10人评价)
-
-book title: <<Python数据可视化编程实战>>
-pub info: Igor Milovanovic / 颛清山 / 人民邮电出版社 / 2015-5-1 / 49.00元
-rate: 0 (少于10人评价)
-
-book title: <<Pro Python System Administration>>
-pub info: Rytis Sileika / Apress / 2010-7-27 / USD 49.99
-rate: 0 (少于10人评价)
-
-book title: <<Maya Python for Games and Film : A Complete Reference for Maya Python and the Maya Python API>>
-pub info: Adam Mechtley、Ryan Trowbridge / CRC Press / 2011-11-1 / GBP 36.99
-rate: 0 (少于10人评价)
-
-book title: <<Python High Performance Programming : Boost the performance of your Python programs using advanced techniques>>
-pub info: Gabriele Lanaro / Packt Publishing / 2013-12-23 / USD 26.99
-rate: 0 (少于10人评价)
-
-book title: <<Python Data Visualization Cookbook>>
-pub info: Igor Milovanovic / Packt Publishing / 2013-11-25 / USD 39.99
-rate: 0 (少于10人评价)
-
-book title: <<The Hacker's Guide to Python>>
-pub info: Julien Danjou / 2014-3-27
-rate: 0 (少于10人评价)
-
-book title: <<Python游戏编程入门>>
-pub info: 哈伯 (Jonathan S.Harbour) / 李强 / 2015-1-1
-rate: 0 (少于10人评价)
-
-book title: <<Foundations of Python Network Programming>>
-pub info: John Goerzen / Apress / 2004-8-17 / USD 44.99
-rate: 0 (少于10人评价)
-
-book title: <<Python Scripting for Computational Science>>
-pub info: Hans Petter Langtangen / Springer / $60.16
-rate: 0 (少于10人评价)
-
-book title: <<Python and AWS Cookbook>>
-pub info: Mitch Garnaat / O'Reilly Media / 2011-11-2 / USD 25.99
-rate: 0 (少于10人评价)
-
-book title: <<学习Python(第5版)(影印版)>>
-pub info: Mark Lutz / 东南大学出版社 / 2014-1 / CNY 148.00
-rate: 0 (少于10人评价)
-
-book title: <<树莓派Python编程指南>>
-pub info: Alex Bradbury、Ben Everard / 王文峰 / 机械工业出版社 / 2015-1-16 / 59
-rate: 0 (少于10人评价)
-
-book title: <<Python Web Programming>>
-pub info: Steve Holden / Sams / 2002-01-18 / USD 49.99
-rate: 0 (少于10人评价)
-
-book title: <<深入学习：Python程序开发>>
-pub info: （美）Andre Lessa / 张晓晖、张晓昕、王艳斌、等 / 电子工业出版社 / 2001-8-1 / 58.00
-rate: 0 (少于10人评价)
-
-book title: <<用Python学编程>>
-pub info: (美)Alan Gauld / 清华大学出版社 / 2002-9 / 32.00元
-rate: 0 (少于10人评价)
-
-book title: <<Opencv Computer Vision with Python>>
-pub info: Howse, Joseph
-rate: 0 (少于10人评价)
-
-book title: <<MySQL for Python>>
-pub info: Albert Lukaszewski / Packt Publishing / 2010-09-21 / USD 49.99
-rate: 0 (少于10人评价)
-
-book title: <<Python Geospatial Development>>
-pub info: Erik Westra / Packt Publishing / 2010-12-14 / USD 49.99
-rate: 0 (少于10人评价)
-
-book title: <<Building probabilistic graphical models with Python>>
-pub info: Kiran R Karkera / Packt Publishing - ebooks Account / 2014-5-25 / USD 27.99
-rate: 0 (少于10人评价)
-
-book title: <<Python 2.6 Text Processing : Beginners Guide>>
-pub info: Jeff McNeil / Packt Publishing / 2010-12-14 / USD 44.99
-rate: 0 (少于10人评价)
-
-book title: <<Web Programming in Python : Techniques for Integrating Linux, Apache and MySQL>>
-pub info: George K. Thiruvathukal、Thomas W. Christopher、John P. Shafaee / Prentice Hall PTR / 2001-10-15 / USD 44.99
-rate: 0 (少于10人评价)
-
-book title: <<Python Programming for the Absolute Beginner, 3rd Edition>>
-pub info: Michael Dawson / Cengage Learning PTR / 2010-1-1 / GBP 19.99
-rate: 0 (少于10人评价)
 
 book title: <<PYTHON和QT快速GUI编程>>
 pub info: 59.00
@@ -930,6 +866,42 @@ book title: <<Python数据分析>>
 pub info: 麦金尼 (Wes McKinney) / 东南大学出版社 / 2013-5-1 / CNY 74.00
 rate: 0 (少于10人评价)
 
+book title: <<Foundations of Agile Python Development>>
+pub info: Jeff Younker / Apress / 2008-06-23 / USD 42.99
+rate: 0 (少于10人评价)
+
+book title: <<Python Playground : Geeky Projects for the Curious Programmer>>
+pub info: Mahesh Venkitachalam / No Starch Press / 2015-11-7 / USD 29.95
+rate: 0 (目前无人评价)
+
+book title: <<XML与Perl、Python和PHP编程指南>>
+pub info: Martin C.Brown、邱仲潘 / 邱仲潘 / 电子工业出版社 / 2002-4-1 / 30.00
+rate: 0 (少于10人评价)
+
+book title: <<Python数据可视化编程实战>>
+pub info: Igor Milovanovic / 颛清山 / 人民邮电出版社 / 2015-5-1 / 49.00元
+rate: 0 (少于10人评价)
+
+book title: <<Pro Python System Administration>>
+pub info: Rytis Sileika / Apress / 2010-7-27 / USD 49.99
+rate: 0 (少于10人评价)
+
+book title: <<Maya Python for Games and Film : A Complete Reference for Maya Python and the Maya Python API>>
+pub info: Adam Mechtley、Ryan Trowbridge / CRC Press / 2011-11-1 / GBP 36.99
+rate: 0 (少于10人评价)
+
+book title: <<Python High Performance Programming : Boost the performance of your Python programs using advanced techniques>>
+pub info: Gabriele Lanaro / Packt Publishing / 2013-12-23 / USD 26.99
+rate: 0 (少于10人评价)
+
+book title: <<Python Data Visualization Cookbook>>
+pub info: Igor Milovanovic / Packt Publishing / 2013-11-25 / USD 39.99
+rate: 0 (少于10人评价)
+
+book title: <<The Hacker's Guide to Python>>
+pub info: Julien Danjou / 2014-3-27
+rate: 0 (少于10人评价)
+
 book title: <<Python Scripts for Abaqus : Learn by Example>>
 pub info: Gautam M. Puri / 2011
 rate: 0 (少于10人评价)
@@ -942,69 +914,9 @@ book title: <<Python Geospatial Development Essentials>>
 pub info: Karim Bahgat / Packt Publishing - ebooks Account / 2015-6-30 / USD 29.99
 rate: 0 (目前无人评价)
 
-book title: <<Game Programming With Python (Game Development Series)>>
-pub info: Sean Riley / Charles River Media / 2003-10-24 / USD 49.95
-rate: 0 (少于10人评价)
-
-book title: <<Python Network Programming Cookbook>>
-pub info: Dr. M. O. Faruque Sarker / Packt Publishing - ebooks Account / 2014-3-26 / USD 44.99
-rate: 0 (少于10人评价)
-
-book title: <<Professional Python Frameworks : Web 2.0 Programming with Django and Turbogears>>
-pub info: Dana Moore / Wrox / October 22, 2007 / $26.39
-rate: 0 (少于10人评价)
-
-book title: <<Python For Dummies (For Dummies (Computer/Tech))>>
-pub info: Stef Maruch、Aahz Maruch / For Dummies / 2006 / $29.99
-rate: 0 (少于10人评价)
-
-book title: <<Learning Python, Second Edition>>
-pub info: Mark Lutz、David Ascher / O'Reilly Media / 2003-12 / USD 39.99
-rate: 0 (少于10人评价)
-
-book title: <<Programming in Python 3 : A Complete Introduction to the Python Language (2nd Edition)>>
-pub info: Mark Summerfield / Addison-Wesley Professional / 2009-11-22 / USD 44.99
-rate: 0 (少于10人评价)
-
-book title: <<面向ArcGIS的Python脚本编程>>
-pub info: [美] Paul A. Zandbergen 赞德伯根 / 李明巨 刘昱君、陶旸 张磊 / 人民邮电出版社 / 2014-10-1 / CNY 49.00
-rate: 0 (少于10人评价)
-
-book title: <<Programming Python, Second Edition with CD>>
-pub info: Mark Lutz / O'Reilly Media, Inc. / 2001-03 / USD 59.99
-rate: 0 (少于10人评价)
-
-book title: <<Python for Bioinformatics (Chapman & Hall/Crc Mathematical & Computational Biology)>>
-pub info: Sebastian Bassi / Chapman & Hall/CRC / 2009-09-30 / USD 69.95
-rate: 0 (少于10人评价)
-
-book title: <<Python 3 技術手冊>>
-pub info: 黃書逸 / 碁峰 / 2009年05月06日
-rate: 0 (少于10人评价)
-
-book title: <<A Primer on Scientific Programming with Python>>
-pub info: Langtangen, Hans Petter / 2012-7 / $ 90.34
-rate: 0 (少于10人评价)
-
-book title: <<Introduction to Python Programming and Developing GUI Applications with PyQT>>
-pub info: B. M. Harwani / Course Technology PTR / 2011-12-1 / USD 29.99
-rate: 0 (少于10人评价)
-
-book title: <<Python编程初学者指>>
-pub info: [美]Michael Dawson / 王金兰 / 人民邮电出版社 / 2014-10-1
-rate: 0 (少于10人评价)
-
-book title: <<Hello! Python>>
-pub info: Anthony S. Briggs / Manning Publications / 2012-2-23 / USD 34.99
-rate: 0 (少于10人评价)
-
 book title: <<Python GeoSpatial Analysis Essentials>>
 pub info: Erik Westra / Packt Publishing - ebooks Account / 2015-6-30 / USD 34.99
 rate: 0 (目前无人评价)
-
-book title: <<High Performance Python>>
-pub info: Andrew Lewis / O'Reilly Media, Inc. / 2010-09-15 / USD 34.99
-rate: 0 (少于10人评价)
 
 book title: <<Derivatives Analytics with Python : Data Analysis, Models, Simulation, Calibration and Hedging>>
 pub info: Yves Hilpisch / Wiley / 2015-7-13 / USD 100.00
@@ -1043,11 +955,59 @@ pub info: Boudewijn Rempt / Opendocs Llc / 2002-01 / USD 49.95
 rate: 0 (目前无人评价)
 
 book title: <<学习PYTHON—做个有编程能力的设计师 : 面向设计师的编程设计知识系统(PADKS)>>
-pub info: 江苏凤凰科学技术出版社 / 2015-6 / 138
+pub info: 江苏凤凰科学技术出版社 / 2015-1-1 / 138
 rate: 0 (少于10人评价)
 
 book title: <<趣学Python : 教孩子学编程>>
 pub info: [美] Jason R.Briggs / 尹哲 / 人民邮电出版社 / 2015-2 / 59
+rate: 0 (少于10人评价)
+
+book title: <<Python游戏编程入门>>
+pub info: 哈伯 (Jonathan S.Harbour) / 李强 / 2015-1-1
+rate: 0 (少于10人评价)
+
+book title: <<Foundations of Python Network Programming>>
+pub info: John Goerzen / Apress / 2004-8-17 / USD 44.99
+rate: 0 (少于10人评价)
+
+book title: <<Python Scripting for Computational Science>>
+pub info: Hans Petter Langtangen / Springer / $60.16
+rate: 0 (少于10人评价)
+
+book title: <<Python and AWS Cookbook>>
+pub info: Mitch Garnaat / O'Reilly Media / 2011-11-2 / USD 25.99
+rate: 0 (少于10人评价)
+
+book title: <<学习Python(第5版)(影印版)>>
+pub info: Mark Lutz / 东南大学出版社 / 2014-1 / CNY 148.00
+rate: 0 (少于10人评价)
+
+book title: <<树莓派Python编程指南>>
+pub info: Alex Bradbury、Ben Everard / 王文峰 / 机械工业出版社 / 2015-1-16 / 59
+rate: 0 (少于10人评价)
+
+book title: <<Python Web Programming>>
+pub info: Steve Holden / Sams / 2002-01-18 / USD 49.99
+rate: 0 (少于10人评价)
+
+book title: <<深入学习：Python程序开发>>
+pub info: （美）Andre Lessa / 张晓晖、张晓昕、王艳斌、等 / 电子工业出版社 / 2001-8-1 / 58.00
+rate: 0 (少于10人评价)
+
+book title: <<Opencv Computer Vision with Python>>
+pub info: Howse, Joseph
+rate: 0 (少于10人评价)
+
+book title: <<MySQL for Python>>
+pub info: Albert Lukaszewski / Packt Publishing / 2010-09-21 / USD 49.99
+rate: 0 (少于10人评价)
+
+book title: <<Python Geospatial Development>>
+pub info: Erik Westra / Packt Publishing / 2010-12-14 / USD 49.99
+rate: 0 (少于10人评价)
+
+book title: <<Building probabilistic graphical models with Python>>
+pub info: Kiran R Karkera / Packt Publishing - ebooks Account / 2014-5-25 / USD 27.99
 rate: 0 (少于10人评价)
 
 book title: <<零基础学python图文版>>
@@ -1061,66 +1021,6 @@ rate: 0 (目前无人评价)
 book title: <<Thoughtful Machine Learning with Python : A Test-Driven Approach>>
 pub info: Matthew Kirk / O'Reilly Media / 2016-8-25 / USD 39.99
 rate: 0 (目前无人评价)
-
-book title: <<Machine Learning in Python : Essential Techniques for Predictive Analysis>>
-pub info: Michael Bowles / Wiley / 2015-4-27 / USD 50.00
-rate: 0 (目前无人评价)
-
-book title: <<Essential Python for Corpus Linguistics>>
-pub info: Mark Johnson / Blackwell Publishers / 2007-10 / USD 39.95
-rate: 0 (少于10人评价)
-
-book title: <<Python Programming Patterns>>
-pub info: Thomas W. Christopher / Prentice Hall PTR / 2001-10-23 / USD 44.99
-rate: 0 (目前无人评价)
-
-book title: <<A Primer on Scientific Programming with Python>>
-pub info: Hans Petter Langtangen / Springer-Verlag Berlin / 2009 / USD 59.95
-rate: 0 (少于10人评价)
-
-book title: <<The Practice of Computing Using Python>>
-pub info: William F. Punch、Richard Enbody / Addison-Wesley / 2012-2-25 / USD 115.20
-rate: 0 (少于10人评价)
-
-book title: <<Learning Python Design Patterns>>
-pub info: Gennadiy Zlobin / Packt Publishing / 2013-11-25 / USD 22.49
-rate: 0 (少于10人评价)
-
-book title: <<Mobile Python : Rapid prototyping of applications on the mobile platform (Symbian Press)>>
-pub info: Jürgen Scheible、Ville Tuulos / Wiley / 2007-12-14 / USD 45.00
-rate: 0 (少于10人评价)
-
-book title: <<Introduction to Computing and Programming in Python, A Multimedia Approach (2nd Edition)>>
-pub info: Mark J. Guzdial、Barbara Ericson / Prentice Hall / 2009-07-11 / USD 107.00
-rate: 0 (少于10人评价)
-
-book title: <<Python and Tkinter Programming>>
-pub info: John E Grayson Ph.D. / Manning Publications / 2000-01 / USD 49.95
-rate: 0 (少于10人评价)
-
-book title: <<Python Scripting for Computational Science : Texts in Computational Science and Engineering>>
-pub info: Hans Petter Langtangen / Springer / 2008 / $69.95
-rate: 0 (少于10人评价)
-
-book title: <<Testing Python : Applying Unit Testing, TDD, BDD and Acceptance Testing>>
-pub info: David Sale / Wiley / 2014-8-11 / USD 44.99
-rate: 0 (少于10人评价)
-
-book title: <<Learning Python>>
-pub info: Mark Lutz、David Ascher / O'Reilly Media / 1999-4-14 / USD 34.95
-rate: 0 (少于10人评价)
-
-book title: <<Python 编程指南>>
-pub info: (美)Tim Altom&Mitch Chapman / 中国水利水电出版社 / 2002-1 / 40.00元
-rate: 0 (少于10人评价)
-
-book title: <<易学Python>>
-pub info: Anthony Briggs / 王威、袁国忠 / 人民邮电出版社 / 2014-4 / 45.00元
-rate: 0 (少于10人评价)
-
-book title: <<Python Scripting for ArcGIS>>
-pub info: Paul A. Zandbergen / Esri Press / 2013-1-9 / USD 79.95
-rate: 0 (少于10人评价)
 
 book title: <<Numerical Python: A Practical Techniques Approach for Industry : A Practical Techniques Approach for Industry>>
 pub info: Robert Johansson / Apress / 2015-10-2 / USD 42.85
@@ -1170,6 +1070,66 @@ book title: <<python基础教程>>
 pub info: 
 rate: 0 (少于10人评价)
 
+book title: <<High Performance Python>>
+pub info: Andrew Lewis / O'Reilly Media, Inc. / 2010-09-15 / USD 34.99
+rate: 0 (少于10人评价)
+
+book title: <<Python 2.6 Text Processing : Beginners Guide>>
+pub info: Jeff McNeil / Packt Publishing / 2010-12-14 / USD 44.99
+rate: 0 (少于10人评价)
+
+book title: <<Web Programming in Python : Techniques for Integrating Linux, Apache and MySQL>>
+pub info: George K. Thiruvathukal、Thomas W. Christopher、John P. Shafaee / Prentice Hall PTR / 2001-10-15 / USD 44.99
+rate: 0 (少于10人评价)
+
+book title: <<Python Programming for the Absolute Beginner, 3rd Edition>>
+pub info: Michael Dawson / Cengage Learning PTR / 2010-1-1 / GBP 19.99
+rate: 0 (少于10人评价)
+
+book title: <<Game Programming With Python (Game Development Series)>>
+pub info: Sean Riley / Charles River Media / 2003-10-24 / USD 49.95
+rate: 0 (少于10人评价)
+
+book title: <<Python Network Programming Cookbook>>
+pub info: Dr. M. O. Faruque Sarker / Packt Publishing - ebooks Account / 2014-3-26 / USD 44.99
+rate: 0 (少于10人评价)
+
+book title: <<Professional Python Frameworks : Web 2.0 Programming with Django and Turbogears>>
+pub info: Dana Moore / Wrox / October 22, 2007 / $26.39
+rate: 0 (少于10人评价)
+
+book title: <<Python For Dummies (For Dummies (Computer/Tech))>>
+pub info: Stef Maruch、Aahz Maruch / For Dummies / 2006 / $29.99
+rate: 0 (少于10人评价)
+
+book title: <<Learning Python, Second Edition>>
+pub info: Mark Lutz、David Ascher / O'Reilly Media / 2003-12 / USD 39.99
+rate: 0 (少于10人评价)
+
+book title: <<Programming in Python 3 : A Complete Introduction to the Python Language (2nd Edition)>>
+pub info: Mark Summerfield / Addison-Wesley Professional / 2009-11-22 / USD 44.99
+rate: 0 (少于10人评价)
+
+book title: <<面向ArcGIS的Python脚本编程>>
+pub info: [美] Paul A. Zandbergen 赞德伯根 / 李明巨 刘昱君、陶旸 张磊 / 人民邮电出版社 / 2014-10-1 / CNY 49.00
+rate: 0 (少于10人评价)
+
+book title: <<Programming Python, Second Edition with CD>>
+pub info: Mark Lutz / O'Reilly Media, Inc. / 2001-03 / USD 59.99
+rate: 0 (少于10人评价)
+
+book title: <<Python for Bioinformatics (Chapman & Hall/Crc Mathematical & Computational Biology)>>
+pub info: Sebastian Bassi / Chapman & Hall/CRC / 2009-09-30 / USD 69.95
+rate: 0 (少于10人评价)
+
+book title: <<Python 3 技術手冊>>
+pub info: 黃書逸 / 碁峰 / 2009年05月06日
+rate: 0 (少于10人评价)
+
+book title: <<A Primer on Scientific Programming with Python>>
+pub info: Langtangen, Hans Petter / 2012-7 / $ 90.34
+rate: 0 (少于10人评价)
+
 book title: <<Comparison Between Python and Lua in Gaming Industry>>
 pub info: Pradhan Alankar / LAP Lambert Academic Publishing
 rate: 0 (目前无人评价)
@@ -1180,66 +1140,6 @@ rate: 0 (少于10人评价)
 
 book title: <<Learning Python with Raspberry Pi>>
 pub info: Bradbury, Alex; Winder, Russel; / 2013-9 / $ 33.89
-rate: 0 (少于10人评价)
-
-book title: <<python绝技：运用python成为顶级黑客 : 运用Python成为顶级黑客>>
-pub info: [美] TJ O'Connor / 崔孝晨、武晓音 / 电子工业出版社 / 2016-1 / 79.00元
-rate: 0 (少于10人评价)
-
-book title: <<Python 3面向对象编程>>
-pub info: [加]Dusty Phillips（达斯帝•菲利普斯） / 肖鹏、常贺、石琳 / 电子工业出版社 / 2015-6 / 79.00元
-rate: 0 (少于10人评价)
-
-book title: <<Python Pocket Reference : Pocket Reference>>
-pub info: Mark Lutz / O'Reilly / 2005 / $9.95
-rate: 0 (少于10人评价)
-
-book title: <<Practical Python>>
-pub info: Magnus Lie Hetland / Apress / 2002-8-6 / USD 49.95
-rate: 0 (少于10人评价)
-
-book title: <<Beginning Python : Using Python 2.6 and Python 3.1 (Wrox Programmer to Programmer)>>
-pub info: James Payne / Wrox / 2010-02-02 / USD 39.99
-rate: 0 (少于10人评价)
-
-book title: <<Introduction to Computing Using Python : An Application Development Focus>>
-pub info: Ljubomir Perkovic / Wiley / 2011-12-20 / 694.00元
-rate: 0 (少于10人评价)
-
-book title: <<Python Pocket Reference>>
-pub info: Mark Lutz / O'Reilly Media / 2014-2-10 / USD 14.99
-rate: 0 (少于10人评价)
-
-book title: <<Python 3 Web Development Beginner's Guide>>
-pub info: Michel Anders / Packt Publishing / 2011-5-12 / USD 44.99
-rate: 0 (少于10人评价)
-
-book title: <<Python编程>>
-pub info: 卢茨 (Mark Lutz) / 邹晓、瞿乔、任发科 / 中国电力出版社 / 2015-1-1 / CNY 198.00
-rate: 0 (少于10人评价)
-
-book title: <<Python Programming for the Absolute Beginner (Absolute Beginner)>>
-pub info: Michael Dawson / Course Technology PTR / 2003-08-11 / USD 29.99
-rate: 0 (少于10人评价)
-
-book title: <<Python For Bioinformatics>>
-pub info: Jason Kinser / Jones & Bartlett Publishers / 2009-6-16 / USD 105.95
-rate: 0 (少于10人评价)
-
-book title: <<The Practice of Computing using Python>>
-pub info: William Punch、Richard Enbody / Addison Wesley / 2010-03-07 / USD 105.00
-rate: 0 (少于10人评价)
-
-book title: <<Starting Out with Python>>
-pub info: Gaddis, Tony / Addison-Wesley / 2011-3 / 703.00元
-rate: 0 (少于10人评价)
-
-book title: <<Writing Idiomatic Python 2.7.3>>
-pub info: Knupp, Jeff
-rate: 0 (少于10人评价)
-
-book title: <<Python Data Science Essentials>>
-pub info: Alberto Boschetti、Luca Massaron / Packt Publishing - ebooks Account / 2015-4-30 / USD 39.99
 rate: 0 (少于10人评价)
 
 book title: <<A Python Primer for ArcGIS® : Workbook I>>
@@ -1256,7 +1156,7 @@ rate: 0 (目前无人评价)
 
 book title: <<Practical Maya Programming with Python>>
 pub info: Robert Galanakis / Packt Publishing - ebooks Account / 2014-6-24 / USD 44.99
-rate: 0 (目前无人评价)
+rate: 0 (少于10人评价)
 
 book title: <<算法与程序设计基础（Python版）>>
 pub info: 吴萍、朱晴婷、蒲鹏 / 清华大学出版社 / 2015-2-1 / 39
@@ -1290,6 +1190,66 @@ book title: <<Geoprocessing with Python>>
 pub info: Chris Garrard / Manning Publications / 2015-12-31 / USD 49.99
 rate: 0 (目前无人评价)
 
+book title: <<Introduction to Python Programming and Developing GUI Applications with PyQT>>
+pub info: B. M. Harwani / Course Technology PTR / 2011-12-1 / USD 29.99
+rate: 0 (少于10人评价)
+
+book title: <<Python编程初学者指>>
+pub info: [美]Michael Dawson / 王金兰 / 人民邮电出版社 / 2014-10-1
+rate: 0 (少于10人评价)
+
+book title: <<Hello! Python>>
+pub info: Anthony S. Briggs / Manning Publications / 2012-2-23 / USD 34.99
+rate: 0 (少于10人评价)
+
+book title: <<Machine Learning in Python : Essential Techniques for Predictive Analysis>>
+pub info: Michael Bowles / Wiley / 2015-4-27 / USD 50.00
+rate: 0 (目前无人评价)
+
+book title: <<Essential Python for Corpus Linguistics>>
+pub info: Mark Johnson / Blackwell Publishers / 2007-10 / USD 39.95
+rate: 0 (少于10人评价)
+
+book title: <<Python Programming Patterns>>
+pub info: Thomas W. Christopher / Prentice Hall PTR / 2001-10-23 / USD 44.99
+rate: 0 (目前无人评价)
+
+book title: <<A Primer on Scientific Programming with Python>>
+pub info: Hans Petter Langtangen / Springer-Verlag Berlin / 2009 / USD 59.95
+rate: 0 (少于10人评价)
+
+book title: <<The Practice of Computing Using Python>>
+pub info: William F. Punch、Richard Enbody / Addison-Wesley / 2012-2-25 / USD 115.20
+rate: 0 (少于10人评价)
+
+book title: <<Learning Python Design Patterns>>
+pub info: Gennadiy Zlobin / Packt Publishing / 2013-11-25 / USD 22.49
+rate: 0 (少于10人评价)
+
+book title: <<Mobile Python : Rapid prototyping of applications on the mobile platform (Symbian Press)>>
+pub info: Jürgen Scheible、Ville Tuulos / Wiley / 2007-12-14 / USD 45.00
+rate: 0 (少于10人评价)
+
+book title: <<Introduction to Computing and Programming in Python, A Multimedia Approach (2nd Edition)>>
+pub info: Mark J. Guzdial、Barbara Ericson / Prentice Hall / 2009-07-11 / USD 107.00
+rate: 0 (少于10人评价)
+
+book title: <<Python and Tkinter Programming>>
+pub info: John E Grayson Ph.D. / Manning Publications / 2000-01 / USD 49.95
+rate: 0 (少于10人评价)
+
+book title: <<Python Scripting for Computational Science : Texts in Computational Science and Engineering>>
+pub info: Hans Petter Langtangen / Springer / 2008 / $69.95
+rate: 0 (少于10人评价)
+
+book title: <<Testing Python : Applying Unit Testing, TDD, BDD and Acceptance Testing>>
+pub info: David Sale / Wiley / 2014-8-11 / USD 44.99
+rate: 0 (少于10人评价)
+
+book title: <<Learning Python>>
+pub info: Mark Lutz、David Ascher / O'Reilly Media / 1999-4-14 / USD 34.95
+rate: 0 (少于10人评价)
+
 book title: <<Treading on Python Volume 2 : Intermediate Python>>
 pub info: Matt Harrison / CreateSpace Independent Publishing Platform / 2013-6-26 / USD 15.97
 rate: 0 (少于10人评价)
@@ -1300,58 +1260,6 @@ rate: 0 (少于10人评价)
 
 book title: <<Life of Python>>
 pub info: George Perry / Little Brown & Co (P) / 1984-05 / USD 12.95
-rate: 0 (少于10人评价)
-
-book title: <<Python Essential Reference (3rd Edition) (Developer's Library)>>
-pub info: David M. Beazley / Sams / 2006-02-20 / USD 34.99
-rate: 0 (少于10人评价)
-
-book title: <<Python 3 for Absolute Beginners>>
-pub info: Tim Hall、J–P Stacey / Apress / 2009-08-24 / USD 32.99
-rate: 0 (少于10人评价)
-
-book title: <<零基础学Python>>
-pub info: 张志强、赵越 / 机械工业出版社 / 2015-2 / CNY 79.00
-rate: 0 (少于10人评价)
-
-book title: <<The Monty Python's Flying Circus: Complete and Annotated...All the Bits>>
-pub info: Dempsey, Luke / lack Dog & Leventhal Publishers / 2012-11 / $ 56.50
-rate: 0 (少于10人评价)
-
-book title: <<Porting to Python 3 : An in-depth guide>>
-pub info: Lennart Regebro / CreateSpace / 2011-3-2 / USD 29.99
-rate: 0 (少于10人评价)
-
-book title: <<Functional Python Programming>>
-pub info: Steven Lott / Packt Publishing / 2015-1-31 / USD 49.99
-rate: 0 (少于10人评价)
-
-book title: <<Python袖珍指南>>
-pub info: Mark Lutz / 侯荣涛 / 中国电力出版社 / 2015-1 / 38.00元
-rate: 0 (少于10人评价)
-
-book title: <<Python Cookbook>>
-pub info: 比兹利 (David Beazley)、琼斯 (Brian K.Jones) / 东南大学出版社 / 2014-1-1 / CNY 98.00
-rate: 0 (少于10人评价)
-
-book title: <<Python Algorithms : Mastering Basic Algorithms in the Python Language>>
-pub info: Magnus Lie Hetland / Apress / 2014-9-4 / USD 54.99
-rate: 0 (少于10人评价)
-
-book title: <<Introduction to Machine Learning with Python>>
-pub info: Sarah Guido、Andreas C. Mueller / O'Reilly Media / 2016-5-25 / USD 49.99
-rate: 0 (目前无人评价)
-
-book title: <<Python Data Analysis>>
-pub info: Ivan Idris / Packt Publishing - ebooks Account / 2014-10-27 / USD 49.99
-rate: 0 (少于10人评价)
-
-book title: <<Next-Generation Web Frameworks in Python>>
-pub info: Liza Daly / O'Reilly / April 09, 2007
-rate: 0 (少于10人评价)
-
-book title: <<Python Programming Fundamentals>>
-pub info: Kent D . Lee / 2010年10月 / $ 45.14
 rate: 0 (少于10人评价)
 
 book title: <<Monty Python's The Meaning of Life>>
@@ -1402,9 +1310,65 @@ book title: <<Learning Python Testing>>
 pub info: Daniel Arbuckle / Packt Publishing / 2014-11-25 / USD 39.99
 rate: 0 (目前无人评价)
 
+book title: <<Python 编程指南>>
+pub info: (美)Tim Altom&Mitch Chapman / 中国水利水电出版社 / 2002-1 / 40.00元
+rate: 0 (少于10人评价)
+
+book title: <<易学Python>>
+pub info: Anthony Briggs / 王威、袁国忠 / 人民邮电出版社 / 2014-4 / 45.00元
+rate: 0 (少于10人评价)
+
+book title: <<Python Scripting for ArcGIS>>
+pub info: Paul A. Zandbergen / Esri Press / 2013-1-9 / USD 79.95
+rate: 0 (少于10人评价)
+
+book title: <<Python 3面向对象编程>>
+pub info: [加]Dusty Phillips（达斯帝•菲利普斯） / 肖鹏、常贺、石琳 / 电子工业出版社 / 2015-6 / 79.00元
+rate: 0 (少于10人评价)
+
+book title: <<Python Pocket Reference : Pocket Reference>>
+pub info: Mark Lutz / O'Reilly / 2005 / $9.95
+rate: 0 (少于10人评价)
+
+book title: <<Practical Python>>
+pub info: Magnus Lie Hetland / Apress / 2002-8-6 / USD 49.95
+rate: 0 (少于10人评价)
+
+book title: <<Beginning Python : Using Python 2.6 and Python 3.1 (Wrox Programmer to Programmer)>>
+pub info: James Payne / Wrox / 2010-02-02 / USD 39.99
+rate: 0 (少于10人评价)
+
+book title: <<Introduction to Computing Using Python : An Application Development Focus>>
+pub info: Ljubomir Perkovic / Wiley / 2011-12-20 / 694.00元
+rate: 0 (少于10人评价)
+
+book title: <<Python Pocket Reference>>
+pub info: Mark Lutz / O'Reilly Media / 2014-2-10 / USD 14.99
+rate: 0 (少于10人评价)
+
+book title: <<Python 3 Web Development Beginner's Guide>>
+pub info: Michel Anders / Packt Publishing / 2011-5-12 / USD 44.99
+rate: 0 (少于10人评价)
+
+book title: <<Python编程>>
+pub info: 卢茨 (Mark Lutz) / 邹晓、瞿乔、任发科 / 中国电力出版社 / 2015-1-1 / CNY 198.00
+rate: 0 (少于10人评价)
+
+book title: <<Python Programming for the Absolute Beginner (Absolute Beginner)>>
+pub info: Michael Dawson / Course Technology PTR / 2003-08-11 / USD 29.99
+rate: 0 (少于10人评价)
+
+book title: <<Python For Bioinformatics>>
+pub info: Jason Kinser / Jones & Bartlett Publishers / 2009-6-16 / USD 105.95
+rate: 0 (少于10人评价)
+
+book title: <<The Practice of Computing using Python>>
+pub info: William Punch、Richard Enbody / Addison Wesley / 2010-03-07 / USD 105.00
+rate: 0 (少于10人评价)
+
 book title: <<Data Structures and Algorithms with Python>>
 pub info: Lee, Kent D.、Hubbard, Steve / Springer / 2015-1-22 / EUR 50.84
-rate: 0 (目前无人评价)
+rate: 0 (少于10人评价)
 
 book title: <<Mastering Python High Performance : Measure, optimize, and improve the performance of your Python code with this easy-to-follow guid>>
 pub info: Fernando Doglio / Packt Publishing / 2015-9-9 / USD 35.99
@@ -1412,7 +1376,7 @@ rate: 0 (少于10人评价)
 
 book title: <<Python性能分析与优化>>
 pub info: Fernando Doglio / 陶俊杰、陈小莉 / 人民邮电出版社 / 2016-6-1 / 45.00元
-rate: 0 (目前无人评价)
+rate: 0 (少于10人评价)
 
 book title: <<Mastering Python Data Analysis>>
 pub info: Magnus Vilhelm Persson、Luiz Felipe Martins / Packt Publishing - ebooks Account / 2016-7-6 / USD 49.99
@@ -1462,6 +1426,70 @@ book title: <<Python : International Mathematics and Statistics Library, Bazaar,
 pub info: Livres Groupe
 rate: 0 (少于10人评价)
 
+book title: <<Starting Out with Python>>
+pub info: Gaddis, Tony / Addison-Wesley / 2011-3 / 703.00元
+rate: 0 (少于10人评价)
+
+book title: <<Writing Idiomatic Python 2.7.3>>
+pub info: Knupp, Jeff
+rate: 0 (少于10人评价)
+
+book title: <<Python Data Science Essentials>>
+pub info: Alberto Boschetti、Luca Massaron / Packt Publishing - ebooks Account / 2015-4-30 / USD 39.99
+rate: 0 (少于10人评价)
+
+book title: <<Python Essential Reference (3rd Edition) (Developer's Library)>>
+pub info: David M. Beazley / Sams / 2006-02-20 / USD 34.99
+rate: 0 (少于10人评价)
+
+book title: <<Python 3 for Absolute Beginners>>
+pub info: Tim Hall、J–P Stacey / Apress / 2009-08-24 / USD 32.99
+rate: 0 (少于10人评价)
+
+book title: <<零基础学Python>>
+pub info: 张志强、赵越 / 机械工业出版社 / 2015-2 / CNY 79.00
+rate: 0 (少于10人评价)
+
+book title: <<The Monty Python's Flying Circus: Complete and Annotated...All the Bits>>
+pub info: Dempsey, Luke / lack Dog & Leventhal Publishers / 2012-11 / $ 56.50
+rate: 0 (少于10人评价)
+
+book title: <<Hacking Secret Ciphers with Python : A beginner's guide to cryptography and computer programming with Python>>
+pub info: Al Sweigart / CreateSpace Independent Publishing Platform / 2013-4-14 / USD 25.01
+rate: 0 (少于10人评价)
+
+book title: <<Porting to Python 3 : An in-depth guide>>
+pub info: Lennart Regebro / CreateSpace / 2011-3-2 / USD 29.99
+rate: 0 (少于10人评价)
+
+book title: <<Functional Python Programming>>
+pub info: Steven Lott / Packt Publishing / 2015-1-31 / USD 49.99
+rate: 0 (少于10人评价)
+
+book title: <<Python袖珍指南>>
+pub info: Mark Lutz / 侯荣涛 / 中国电力出版社 / 2015-1 / 38.00元
+rate: 0 (少于10人评价)
+
+book title: <<Python Cookbook>>
+pub info: 比兹利 (David Beazley)、琼斯 (Brian K.Jones) / 东南大学出版社 / 2014-1-1 / CNY 98.00
+rate: 0 (少于10人评价)
+
+book title: <<Python Algorithms : Mastering Basic Algorithms in the Python Language>>
+pub info: Magnus Lie Hetland / Apress / 2014-9-4 / USD 54.99
+rate: 0 (少于10人评价)
+
+book title: <<Introduction to Machine Learning with Python>>
+pub info: Sarah Guido、Andreas C. Mueller / O'Reilly Media / 2016-5-25 / USD 49.99
+rate: 0 (少于10人评价)
+
+book title: <<Python Data Analysis>>
+pub info: Ivan Idris / Packt Publishing - ebooks Account / 2014-10-27 / USD 49.99
+rate: 0 (少于10人评价)
+
+book title: <<Next-Generation Web Frameworks in Python>>
+pub info: Liza Daly / O'Reilly / April 09, 2007
+rate: 0 (少于10人评价)
+
 book title: <<Fundamentals of Python>>
 pub info: Lambert, Kenneth Alfred / 2011-3 / 672.00元
 rate: 0 (目前无人评价)
@@ -1469,6 +1497,66 @@ rate: 0 (目前无人评价)
 book title: <<Learn Python : A Primer on Python Learning Tools>>
 pub info: Stan Rifkin / CreateSpace / 2012-5-2 / USD 5.99
 rate: 0 (目前无人评价)
+
+book title: <<Python>>
+pub info: Fontenrose, Joseph / $ 55.31
+rate: 0 (目前无人评价)
+
+book title: <<Python>>
+pub info: Allyn, Daisy / $ 7.91
+rate: 0 (少于10人评价)
+
+book title: <<Python Programming Language, including : Python , List Of Python Software, Pydev>>
+pub info: Hephaestus Books / Hephaestus Books / 2011-8-31 / USD 19.75
+rate: 0 (目前无人评价)
+
+book title: <<Python>>
+pub info: Allyn, Daisy / $ 25.54
+rate: 0 (少于10人评价)
+
+book title: <<Monty Python's Tunisian Holiday>>
+pub info: Johnson, Kim Howard / $ 73.44
+rate: 0 (目前无人评价)
+
+book title: <<Python First>>
+pub info: Radenski, Atanas, / 2007-3 / $ 29.32
+rate: 0 (目前无人评价)
+
+book title: <<Python Visual Quickstart Guide>>
+pub info: Fehily, Chris
+rate: 0 (目前无人评价)
+
+book title: <<Grey Hat Python Python Programming for Hackers>>
+pub info: Felts, Daniel
+rate: 0 (少于10人评价)
+
+book title: <<Monty Python The Case Against>>
+pub info: Hewison, Robert
+rate: 0 (目前无人评价)
+
+book title: <<Python Swallowed Whole Core Developers Define Python>>
+pub info: Holden, Steve
+rate: 0 (目前无人评价)
+
+book title: <<Python UNIX 和Linux 系统管理指南>>
+pub info: 基弗特 / 杨明华 / 机械工业出版社 / 2009 / 65.00
+rate: 0 (目前无人评价)
+
+book title: <<White Python>>
+pub info: Channing, Mark / 2003-6 / $ 34.97
+rate: 0 (目前无人评价)
+
+book title: <<パーフェクトPython>>
+pub info: Pythonサポーターズ / 技術評論社 / 2013-3-5 / JPY 3360
+rate: 0 (目前无人评价)
+
+book title: <<Python for Finance>>
+pub info: Yuxing Yan / Packt Publishing - ebooks Account / 2014-5-11 / USD 44.99
+rate: 0 (少于10人评价)
+
+book title: <<Python Programming Fundamentals>>
+pub info: Kent D . Lee / 2010年10月 / $ 45.14
+rate: 0 (少于10人评价)
 
 book title: <<Introduction to Programming Using Python>>
 pub info: Liang, Y. Daniel / 2012-1 / $ 118.88
@@ -1526,70 +1614,6 @@ book title: <<Building Machine Learning Systems with Python - Second Edition>>
 pub info: Luis Pedro Coelho、Willi Richert / Packt Publishing / 2015-3-31 / GBP 32.99
 rate: 0 (少于10人评价)
 
-book title: <<Python>>
-pub info: Fontenrose, Joseph / $ 55.31
-rate: 0 (目前无人评价)
-
-book title: <<Python>>
-pub info: Allyn, Daisy / $ 7.91
-rate: 0 (少于10人评价)
-
-book title: <<Python Programming Language, including : Python , List Of Python Software, Pydev>>
-pub info: Hephaestus Books / Hephaestus Books / 2011-8-31 / USD 19.75
-rate: 0 (目前无人评价)
-
-book title: <<Python>>
-pub info: Allyn, Daisy / $ 25.54
-rate: 0 (少于10人评价)
-
-book title: <<Monty Python's Tunisian Holiday>>
-pub info: Johnson, Kim Howard / $ 73.44
-rate: 0 (目前无人评价)
-
-book title: <<Python First>>
-pub info: Radenski, Atanas, / 2007-3 / $ 29.32
-rate: 0 (目前无人评价)
-
-book title: <<Python Visual Quickstart Guide>>
-pub info: Fehily, Chris
-rate: 0 (目前无人评价)
-
-book title: <<Grey Hat Python Python Programming for Hackers>>
-pub info: Felts, Daniel
-rate: 0 (少于10人评价)
-
-book title: <<Monty Python The Case Against>>
-pub info: Hewison, Robert
-rate: 0 (目前无人评价)
-
-book title: <<Python Swallowed Whole Core Developers Define Python>>
-pub info: Holden, Steve
-rate: 0 (目前无人评价)
-
-book title: <<Python UNIX 和Linux 系统管理指南>>
-pub info: 基弗特 / 杨明华 / 机械工业出版社 / 2009 / 65.00
-rate: 0 (目前无人评价)
-
-book title: <<White Python>>
-pub info: Channing, Mark / 2003-6 / $ 34.97
-rate: 0 (目前无人评价)
-
-book title: <<パーフェクトPython>>
-pub info: Pythonサポーターズ / 技術評論社 / 2013-3-5 / JPY 3360
-rate: 0 (目前无人评价)
-
-book title: <<Learning Python>>
-pub info: Lutz, Mark
-rate: 0 (目前无人评价)
-
-book title: <<Coding Club Level 3 Python>>
-pub info: Roffey, Chris
-rate: 0 (目前无人评价)
-
-book title: <<Fundamentals of Python : Data Structures>>
-pub info: Lambert, Kenneth / Cengage Learning
-rate: 0 (少于10人评价)
-
 book title: <<Monty Python's Spamalot>>
 pub info: Idle, Eric / Hal Leonard Corporation / 2005-09-01 / USD 17.95
 rate: 0 (少于10人评价)
@@ -1622,33 +1646,17 @@ book title: <<A Python Primer for ArcGIS®>>
 pub info: Nathan Jennings / CreateSpace / 2011-12-5 / USD 43.00
 rate: 0 (目前无人评价)
 
-book title: <<Mastering Python for Finance>>
-pub info: James Ma Weiming / Packt Publishing - ebooks Account / 2015-5-29 / USD 49.99
-rate: 0 (少于10人评价)
-
-book title: <<python入门经典>>
-pub info: Katie Cunningham / 李军、李强 / 人民邮电出版社 / 2014-10-1 / 39
-rate: 0 (少于10人评价)
-
-book title: <<Python Geospatial Development - Second Edition>>
-pub info: Erik Westra / Packt Publishing / 2013-5-24 / USD 49.99
-rate: 0 (少于10人评价)
-
-book title: <<计算机编程导论—Python程序设计>>
-pub info: 赵家刚，狄光智，吕丹桔 / 人民邮电 / 2013-10 / 49.80
-rate: 0 (少于10人评价)
-
-book title: <<Numerical Methods in Engineering with Python>>
-pub info: Jaan Kiusalaas / Cambridge University Press / 2005-07-25 / USD 91.00
-rate: 0 (少于10人评价)
-
-book title: <<Monty Python and Philosophy : Nudge Nudge, Think Think! (Popular Culture and Philosophy)>>
-pub info: Gary L. Hardcastle、George A. Reisch / Open Court / 2006-03-30 / USD 17.95
-rate: 0 (少于10人评价)
-
-book title: <<Internet Programming with Python>>
-pub info: Aaron Watters、Guido Van Rossum、James C. Ahlstrom、Guido Van Rossum、James C Ahlstrom、Guido v Rossum / M & T Books / 1996-09-30 / USD 34.95
+book title: <<Learning Python>>
+pub info: Lutz, Mark
 rate: 0 (目前无人评价)
+
+book title: <<Coding Club Level 3 Python>>
+pub info: Roffey, Chris
+rate: 0 (目前无人评价)
+
+book title: <<Fundamentals of Python : Data Structures>>
+pub info: Lambert, Kenneth / Cengage Learning
+rate: 0 (少于10人评价)
 
 book title: <<Pythonプロフェッショナルプログラミング>>
 pub info: ビープラウド / 秀和システム / 2012-3-26 / JPY 2940
@@ -1678,6 +1686,22 @@ book title: <<Python Projects>>
 pub info: Laura Cassell、Alan Gauld / Wrox / 2014-10-27 / USD 45.00
 rate: 0 (少于10人评价)
 
+book title: <<Mastering Python for Finance>>
+pub info: James Ma Weiming / Packt Publishing - ebooks Account / 2015-5-29 / USD 49.99
+rate: 0 (少于10人评价)
+
+book title: <<python入门经典>>
+pub info: Katie Cunningham / 李军、李强 / 人民邮电出版社 / 2014-10-1 / 39
+rate: 0 (少于10人评价)
+
+book title: <<Python Geospatial Development - Second Edition>>
+pub info: Erik Westra / Packt Publishing / 2013-5-24 / USD 49.99
+rate: 0 (少于10人评价)
+
+book title: <<计算机编程导论—Python程序设计>>
+pub info: 赵家刚，狄光智，吕丹桔 / 人民邮电 / 2013-10 / 49.80
+rate: 0 (少于10人评价)
+
 book title: <<Numerical Methods in Engineering with Python 3>>
 pub info: Jaan Kiusalaas / Cambridge University Press / 2013-1-21 / USD 109.99
 rate: 0 (少于10人评价)
@@ -1698,17 +1722,33 @@ book title: <<Learn Python Visually>>
 pub info: Mr Ivelin Demirov / CreateSpace Independent Publishing Platform / 2015-2-25 / USD 25.93
 rate: 0 (少于10人评价)
 
-book title: <<Learn Python in One Day and Learn It Well : Python for Beginners with Hands-on Project. The only book you need to start coding in Python imm>>
-pub info: Jamie Chan / CreateSpace Independent Publishing Platform / 2015-1-7 / USD 11.67
+book title: <<Python Programming on WIN32 : Help for Windows Programmers>>
+pub info: Mark Hammond、Andy Robinson / O'Reilly Media / 2000-01 / USD 59.99
 rate: 0 (少于10人评价)
 
-book title: <<Introduction to Programming Concepts with Case Studies in Python>>
-pub info: Ucoluk, Gokturk; Oluk, G. Kt Rk; Kalkan, Sinan / 2012-11 / $ 56.44
+book title: <<Invent Your Own Computer Games With Python>>
+pub info: Al Sweigart / CreateSpace / 2009-03-20 / USD 32.95
+rate: 0 (少于10人评价)
+
+book title: <<Python Testing Cookbook>>
+pub info: Greg L. Turnquist / Packt Publishing / 2011-5-17 / USD 44.99
+rate: 0 (少于10人评价)
+
+book title: <<Black Hat Python : Python Programming for Hackers and Pentesters>>
+pub info: Justin Seitz / No Starch Press / 2014-12-14 / USD 34.95
+rate: 0 (少于10人评价)
+
+book title: <<Numerical Methods in Engineering with Python>>
+pub info: Jaan Kiusalaas / Cambridge University Press / 2005-07-25 / USD 91.00
+rate: 0 (少于10人评价)
+
+book title: <<Monty Python and Philosophy : Nudge Nudge, Think Think! (Popular Culture and Philosophy)>>
+pub info: Gary L. Hardcastle、George A. Reisch / Open Court / 2006-03-30 / USD 17.95
+rate: 0 (少于10人评价)
+
+book title: <<Internet Programming with Python>>
+pub info: Aaron Watters、Guido Van Rossum、James C. Ahlstrom、Guido Van Rossum、James C Ahlstrom、Guido v Rossum / M & T Books / 1996-09-30 / USD 34.95
 rate: 0 (目前无人评价)
-
-book title: <<Learning Python Network Programming>>
-pub info: Dr. M. O. Faruque Sarker、Sam Washington / Packt Publishing - ebooks Account / 2015-6-30 / USD 49.99
-rate: 0 (少于10人评价)
 
 book title: <<Python : The Complete Reference>>
 pub info: Martin Brown / Osborne/McGraw-Hill / 2001-09-21 / USD 49.99
@@ -1756,45 +1796,5 @@ rate: 0 (目前无人评价)
 
 book title: <<Python 2.6 Graphics Cookbook : Over 100 great recipes for creating and animating graphics using Python>>
 pub info: Mike Ohlson de Fine
-rate: 0 (少于10人评价)
-
-book title: <<Python for Everyone>>
-pub info: Horstmann, Cay S.; Necaise, Rance D.; / John Wiley & Sons / 2013-3 / $ 133.62
-rate: 0 (少于10人评价)
-
-book title: <<Pro Python>>
-pub info: J. Burton Browning、Marty Alchin / Apress / 2014-12-24 / USD 49.99
-rate: 0 (少于10人评价)
-
-book title: <<Mastering Python Design Patterns>>
-pub info: Sakis Kasampalis / Packt Publishing - ebooks Account / 2015-2-12 / USD 44.99
-rate: 0 (少于10人评价)
-
-book title: <<Hacking Secret Ciphers with Python : A beginner's guide to cryptography and computer programming with Python>>
-pub info: Al Sweigart / CreateSpace Independent Publishing Platform / 2013-4-14 / USD 25.01
-rate: 0 (少于10人评价)
-
-book title: <<Python for Finance>>
-pub info: Yuxing Yan / Packt Publishing - ebooks Account / 2014-5-11 / USD 44.99
-rate: 0 (少于10人评价)
-
-book title: <<Python Programming on WIN32 : Help for Windows Programmers>>
-pub info: Mark Hammond、Andy Robinson / O'Reilly Media / 2000-01 / USD 59.99
-rate: 0 (少于10人评价)
-
-book title: <<Invent Your Own Computer Games With Python>>
-pub info: Al Sweigart / CreateSpace / 2009-03-20 / USD 32.95
-rate: 0 (少于10人评价)
-
-book title: <<Python Testing Cookbook>>
-pub info: Greg L. Turnquist / Packt Publishing / 2011-5-17 / USD 44.99
-rate: 0 (少于10人评价)
-
-book title: <<Black Hat Python : Python Programming for Hackers and Pentesters>>
-pub info: Justin Seitz / No Starch Press / 2014-12-14 / USD 34.95
-rate: 0 (少于10人评价)
-
-book title: <<Real World Instrumentation with Python : Automated Data Acquisition and Control Systems>>
-pub info: John M. Hughes / O'Reilly Media / 2010-11-29 / USD 54.99
 rate: 0 (少于10人评价)
 

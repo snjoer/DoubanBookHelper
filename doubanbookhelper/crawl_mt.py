@@ -37,7 +37,8 @@ class CrawlMT():
         thread1.join()
         thread2.join()
         if gauge.isValid() == True:
-            export(self.rankList, self.key_word)
+            filepath = '../export_files/booklist_of_' + self.key_word
+            export(self.rankList, filepath)
             box = wx.MessageDialog(None, 'Done!', 'Successfully Exported', wx.OK)
             box.ShowModal()
             box.Destroy()
